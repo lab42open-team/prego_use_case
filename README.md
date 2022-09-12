@@ -40,8 +40,9 @@ Searching the PREGO knowledge base for the above terms results in multilayer net
 data, environments, microbes and processes as compliled from the Literature, 
 Environmental Samples and Annotated Genomes.
 
-
-
+### References
+- Microorganisms in Saline Environments: Strategies and Functions
+- Environmental Microbiology: Fundamentals and Applications
 
 ## Single term search
 
