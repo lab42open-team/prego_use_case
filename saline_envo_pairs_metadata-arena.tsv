@@ -1,0 +1,759 @@
+Node	Layer	Name	Rank
+158	-2	Treponema denticola	species
+166	-2	Treponema sp.	species
+985	-2	Cytophaga hutchinsonii	species
+1270	-2	Micrococcus luteus	species
+1358	-2	Lactococcus lactis	species
+2238	-2	Haloarcula marismortui	species
+2369	-2	Arhodomonas aquaeolei	species
+3046	-2	Dunaliella salina	species
+5075	-2	Penicillium camemberti	species
+5478	-2	[Candida] glabrata	species
+28042	-2	Saccharopolyspora rectivirgula	species
+28124	-2	Porphyromonas endodontalis	species
+29524	-2	Porphyromonas circumdentaria	species
+29535	-2	Cytophaga sp.	species
+36875	-2	Porphyromonas canoris	species
+43659	-2	Pseudoalteromonas tetraodonis	species
+51589	-2	Haloarcula hispanica	species
+59374	-2	Fibrobacter succinogenes subsp. succinogenes S85	strain
+60172	-2	Penicillium solitum	species
+69773	-2	Penicillium glabrum	species
+74701	-2	Desulfotomaculum putei	species
+81032	-2	Hyphomonas neptunium	species
+109263	-2	Halothiobacillus kellyi	species
+110766	-2	Entamoeba coli	species
+111105	-2	Porphyromonas gulae	species
+131081	-2	Corynebacterium capitovis	species
+158192	-2	Desulfuromonas michiganensis	species
+163248	-2	Lophiostoma vagabundum	species
+173040	-2	Amphibacillus tropicus	species
+184067	-2	Kushneria indalinina	species
+219305	-2	Micromonospora sp. ATCC 39149	species
+228405	-2	Hyphomonas neptunium ATCC 15444	strain
+240016	-2	Verrucomicrobium spinosum DSM 4136 = JCM 18804	strain
+240419	-2	Aspergillus fresenii	species
+253839	-2	Streptomyces sp. C	species
+266940	-2	Kineococcus radiotolerans SRS30216 = ATCC BAA-149	strain
+272569	-2	Haloarcula marismortui ATCC 43049	strain
+298654	-2	Frankia inefficax	species
+304371	-2	Methanocella paludicola SANAE	strain
+309801	-2	Thermomicrobium roseum DSM 5159	strain
+314038	-2	Podospora fibrinocaudata	species
+314256	-2	Oceanicola granulosus HTCC2516	strain
+338645	-2	Candidatus Contubernalis alkalaceticum	species
+349307	-2	Methanothrix thermoacetophila PT	strain
+349521	-2	Hahella chejuensis KCTC 2396	strain
+368407	-2	Methanoculleus marisnigri JR1	strain
+391587	-2	Kordia algicida OT-1	strain
+406556	-2	Streptococcus pneumoniae SP3-BS71	strain
+411460	-2	[Ruminococcus] torques ATCC 27756	strain
+411477	-2	Parabacteroides merdae ATCC 43184	strain
+418699	-2	Azoarcus olearius	species
+426128	-2	Natronincola peptidivorans	species
+441209	-2	Rhodobaca barguzinensis	species
+443144	-2	Geobacter sp. M21	species
+457427	-2	Streptomyces himastatinicus ATCC 53653	strain
+460265	-2	Methylobacterium nodulans ORS 2060	strain
+469383	-2	Conexibacter woesei DSM 14684	strain
+472759	-2	Nitrosococcus halophilus Nc 4	strain
+479434	-2	Sphaerobacter thermophilus DSM 20745	strain
+481743	-2	Paenibacillus sp. Y412MC10	species
+502025	-2	Haliangium ochraceum DSM 14365	strain
+522772	-2	Denitrovibrio acetiphilus DSM 12809	strain
+525371	-2	Roseomonas cervicalis ATCC 49957	strain
+555778	-2	Halothiobacillus neapolitanus c2	strain
+584708	-2	Aminomonas paucivorans DSM 12260	strain
+633149	-2	Brevundimonas subvibrioides ATCC 15264	strain
+645465	-2	Streptomyces sp. e14	species
+696369	-2	Desulfotomaculum nigrificans DSM 574	strain
+756272	-2	Rubinisphaera brasiliensis DSM 5305	strain
+768733	-2	Methanosalsum natronophilum	species
+1122130	-2	Jonesia quinghaiensis DSM 15701	strain
+1123231	-2	Salinicoccus alkaliphilus DSM 16010	strain
+1408424	-2	Bacillus bogoriensis ATCC BAA-922	strain
+238	-2	Elizabethkingia meningoseptica	species
+672	-2	Vibrio vulnificus	species
+888	-2	Desulfobotulus sapovorans	species
+1063	-2	Rhodobacter sphaeroides	species
+1280	-2	Staphylococcus aureus	species
+2850	-2	Phaeodactylum tricornutum	species
+5066	-2	Aspergillus wentii	species
+5076	-2	Penicillium chrysogenum	species
+40519	-2	Ruminococcus callidus	species
+47826	-2	Lachnum abnorme	species
+49319	-2	Rubrobacter xylanophilus	species
+55518	-2	Magnetospirillum gryphiswaldense	species
+63406	-2	Trichophyton simii	species
+66849	-2	Desulfonatronum lacustre	species
+74702	-2	Desulfofundulus luciae	species
+76114	-2	Aromatoleum aromaticum EbN1	strain
+89139	-2	Rasamsonia byssochlamydoides	species
+120962	-2	Roseiflexus castenholzii	species
+173041	-2	Pelagirhabdus fermentum	species
+173764	-2	Cytophaga sp. MBIC01539	species
+174302	-2	Phaeosphaeria spartinicola	species
+177439	-2	Desulfotalea psychrophila LSv54	strain
+201185	-2	Rhodocista pekingensis	species
+202748	-2	Saprospira sp. SS98-5	species
+216773	-2	Corethron hystrix	species
+266779	-2	Chelativorans sp. BNC1	species
+269796	-2	Rhodospirillum rubrum ATCC 11170	strain
+279714	-2	Pseudogulbenkiania ferrooxidans 2002	strain
+285006	-2	Saccharomyces cerevisiae RM11-1a	strain
+285271	-2	uncultured Methylophaga sp.	species
+349741	-2	Akkermansia muciniphila ATCC BAA-835	strain
+351605	-2	Geobacter uraniireducens Rf4	strain
+357808	-2	Roseiflexus sp. RS-1	species
+388413	-2	Algoriphagus machipongonensis	species
+389348	-2	Candidatus Protochlamydia naegleriophila	species
+391606	-2	Caldanaerobacter subterraneus subsp. pacificus DSM 12653	strain
+391625	-2	Plesiocystis pacifica SIR-1	strain
+393762	-2	Natronincola ferrireducens	species
+398767	-2	Geobacter lovleyi SZ	strain
+400668	-2	Marinomonas sp. MWYL1	species
+402881	-2	Parvibaculum lavamentivorans DS-1	strain
+411485	-2	Faecalibacterium prausnitzii M21/2	strain
+416348	-2	Halorubrum lacusprofundi ATCC 49239	strain
+445971	-2	Anaerofustis stercorihominis DSM 17244	strain
+463619	-2	Chaetoceros sp. ArM0005	species
+471853	-2	Beutenbergia cavernae DSM 12333	strain
+485915	-2	Desulfohalobium retbaense DSM 5692	strain
+555088	-2	Dethiobacter alkaliphilus AHT 1	strain
+573413	-2	Sediminispirochaeta smaragdinae DSM 11293	strain
+575540	-2	Isosphaera pallida ATCC 43644	strain
+582402	-2	Hirschia baltica ATCC 49814	strain
+583355	-2	Coraliomargarita akajimensis DSM 45221	strain
+591157	-2	Streptomyces sp. SPB78	species
+592015	-2	Acetomicrobium hydrogeniformans ATCC BAA-1850	strain
+595451	-2	Rhodopirellula sp. SM48	species
+641112	-2	Ruminococcus flavefaciens FD-1	strain
+649638	-2	Truepera radiovictrix DSM 17093	strain
+667019	-2	Curvibacter putative symbiont of Hydra magnipapillata	species
+766136	-2	Desulfuribacillus alkaliarsenatis	species
+797209	-2	Haladaptatus paucihalophilus DX253	strain
+889378	-2	Spirochaeta africana DSM 8902	strain
+889453	-2	Alkalitalea saponilacus	species
+927658	-2	Alkaliflexus imshenetskii DSM 15055	strain
+1121942	-2	Halomonas ilicicola DSM 19980	strain
+1122214	-2	Martelella mediterranea DSM 17316	strain
+1122959	-2	Photobacterium halotolerans DSM 18316	strain
+1313301	-2	Thermonema rossianum DSM 10300	strain
+1883427	-2	Actinobacteria bacterium	species
+56	-2	Sorangium cellulosum	species
+663	-2	Vibrio alginolyticus	species
+996	-2	Flavobacterium columnare	species
+1074	-2	Rhodoblastus acidophilus	species
+1589	-2	Lactobacillus pentosus	species
+2173	-2	Methanobrevibacter smithii	species
+2242	-2	Halobacterium salinarum	species
+2252	-2	Haloferax mediterranei	species
+5053	-2	Aspergillus aculeatus	species
+5061	-2	Aspergillus niger	species
+5580	-2	Aureobasidium pullulans	species
+5599	-2	Alternaria alternata	species
+28251	-2	Ornithobacterium rhinotracheale	species
+29527	-2	Syntrophobacter wolinii	species
+31910	-2	Halovibrio variabilis	species
+35128	-2	Thalassiosira pseudonana	species
+35761	-2	Nocardioides sp.	species
+37099	-2	Isochrysis galbana	species
+41067	-2	Aspergillus candidus	species
+43928	-2	Halobaculum gomorrense	species
+49252	-2	Eucampia antarctica	species
+56780	-2	Syntrophus aciditrophicus SB	strain
+68879	-2	Penicillium paneum	species
+100884	-2	Coprobacillus cateniformis	species
+106111	-2	Pedobacter sp. KP-2	species
+121821	-2	Roseinatronobacter thiooxidans	species
+137722	-2	Azospirillum sp. B510	strain
+146919	-2	Salinibacter ruber	species
+158847	-2	Megamonas hypermegale	species
+159254	-2	Parachlamydia acanthamoebae str. Hall's coccus	strain
+237727	-2	Erythrobacter sp. NAP1	species
+264462	-2	Bdellovibrio bacteriovorus HD100	strain
+264732	-2	Moorella thermoacetica ATCC 39073	strain
+267632	-2	uncultured Ochrobactrum sp.	species
+293091	-2	Haloquadratum walsbyi	species
+309798	-2	Coprothermobacter proteolyticus DSM 5265	strain
+324925	-2	Pelodictyon phaeoclathratiforme BU-1	strain
+326442	-2	Pseudoalteromonas translucida TAC125	strain
+332175	-2	Desulfosalsimonas propionicica	species
+338966	-2	Pelobacter propionicus DSM 2379	strain
+344747	-2	Gimesia maris DSM 8797	strain
+376171	-2	Haloplanus natans	species
+379066	-2	Gemmatimonas aurantiaca T-27	strain
+394221	-2	Maricaulis maris MCS10	strain
+395965	-2	Methylocella silvestris BL2	strain
+401053	-2	Terriglobus saanensis SP1PR4	strain
+405948	-2	Saccharopolyspora erythraea NRRL 2338	strain
+412449	-2	Leptospirillum ferrodiazotrophum	species
+446462	-2	Actinosynnema mirum DSM 43827	strain
+453584	-2	Rhodovulum kholense	species
+479435	-2	Kribbella flavida DSM 17836	strain
+498761	-2	Heliobacterium modesticaldum Ice1	strain
+507626	-2	Halomonas chromatireducens	species
+521045	-2	Kosmotoga olearia TBF 19.5.1	strain
+525367	-2	Listeria grayi DSM 20601	strain
+526968	-2	Bacillus cereus R309803	strain
+547558	-2	Methanohalophilus mahii DSM 5219	strain
+555779	-2	Desulfonatronospira thiodismutans ASO3-1	strain
+555874	-2	Haloplanus vescus	species
+572479	-2	Halanaerobium praevalens DSM 2228	strain
+573370	-2	Desulfovibrio magneticus RS-1	strain
+574087	-2	Acetohalobium arabaticum DSM 5501	strain
+595452	-2	Rhodopirellula sp. SM49	species
+639282	-2	Deferribacter desulfuricans SSM1	strain
+644966	-2	Thermaerobacter marianensis DSM 12885	strain
+649743	-2	Actinomyces sp. oral taxon 848 str. F0332	strain
+675814	-2	Vibrio coralliilyticus ATCC BAA-450	strain
+694427	-2	Paludibacter propionicigenes WB4	strain
+761659	-2	Salinibacter ruber M8	strain
+765420	-2	Oscillochloris trichoides DG-6	strain
+928729	-2	Saccharomonospora halophila 8	strain
+1121018	-2	Arsenophonus nasoniae DSM 15247	strain
+1121943	-2	Halomonas lutea DSM 23508	strain
+1335746	-2	Spiribacter salinus	species
+2747269	-2	halophilic bacterium	species
+180	-2	Leptospirillum ferrooxidans	species
+424	-2	Methylomonas rubra	species
+837	-2	Porphyromonas gingivalis	species
+959	-2	Bdellovibrio bacteriovorus	species
+997	-2	Eisenibacter elegans	species
+1015	-2	Bergeyella zoohelcum	species
+1265	-2	Ruminococcus flavefaciens	species
+2903	-2	Emiliania huxleyi	species
+28262	-2	Thermodesulfovibrio yellowstonii	species
+29917	-2	Cladosporium cladosporioides	species
+44930	-2	Natronobacterium gregoryi	species
+48157	-2	Podospora curvicolla	species
+48729	-2	Rhabdochromatium marinum	species
+60480	-2	Shewanella sp. MR-4	species
+69783	-2	Penicillium raistrickii	species
+69960	-2	Rhodospira trueperi	species
+74386	-2	Gracilibacillus halotolerans	species
+78329	-2	Coenonia anatina	species
+85828	-2	Pestalotiopsis microspora	species
+90973	-2	Bacillus sp. TA2.A1	species
+91943	-2	Hortaea werneckii	species
+92990	-2	Trimmatostroma salinum	species
+114628	-2	Alkaliphilus transvaalensis	species
+152573	-2	Alkalimonas amylolytica	species
+188541	-2	Stellarima microtrias	species
+241368	-2	Desulfovibrio ferrophilus	species
+243231	-2	Geobacter sulfurreducens PCA	strain
+269797	-2	Methanosarcina barkeri str. Fusaro	strain
+290398	-2	Chromohalobacter salexigens DSM 3043	strain
+313606	-2	Microscilla marina ATCC 23134	strain
+332168	-2	Halococcus hamelinensis	species
+342108	-2	Magnetospirillum magneticum AMB-1	strain
+357809	-2	Lachnoclostridium phytofermentans ISDg	strain
+367791	-2	Flammeovirga yaeyamensis	species
+395019	-2	Burkholderia multivorans ATCC 17616	strain
+412614	-2	Vibrio cholerae 2740-80	strain
+416591	-2	Pseudothermotoga lettingae TMO	strain
+438753	-2	Azorhizobium caulinodans ORS 571	strain
+442899	-2	Halolactibacillus alkaliphilus	species
+471854	-2	Dyadobacter fermentans DSM 18053	strain
+477974	-2	Candidatus Desulforudis audaxviator MP104C	strain
+485916	-2	Desulfofarcimen acetoxidans DSM 771	strain
+517424	-2	Salsuginibacillus halophilus	species
+518766	-2	Rhodothermus marinus DSM 4252	strain
+525257	-2	Chryseobacterium gleum ATCC 35910	strain
+525282	-2	Finegoldia magna ATCC 53516	strain
+530564	-2	Pirellula staleyi DSM 6068	strain
+537937	-2	Bifidobacterium longum subsp. infantis CCUG 52486	strain
+543526	-2	Haloterrigena turkmenica DSM 5511	strain
+547559	-2	Natrialba magadii ATCC 43099	strain
+562969	-2	Parvibaculum indicum	species
+591158	-2	Streptomyces sp. AA4	species
+595453	-2	Rhodopirellula sp. SM50	species
+660522	-2	Haloplanus aerogenes	species
+670487	-2	Oceanithermus profundus DSM 14977	strain
+749550	-2	Escherichia coli MS 200-1	strain
+762903	-2	Pseudopedobacter saltans DSM 12145	strain
+765067	-2	Cutibacterium acnes HL053PA2	strain
+795797	-2	Halalkalicoccus jeotgali B3	strain
+797210	-2	Halopiger xanaduensis SH-6	strain
+797302	-2	Halovivax ruber XH-70	strain
+913239	-2	Riemerella anatipestifer RA-YM	strain
+942938	-2	Alkalispirochaeta alkalica DSM 8900	strain
+1069082	-2	Halomicrobium katesii DSM 19301	strain
+1122209	-2	Marinospirillum alkaliphilum DSM 21637	strain
+1123234	-2	Salinimicrobium terrae DSM 17865	strain
+1123239	-2	Salsuginibacillus kocurii DSM 18087	strain
+1262400	-2	Methanocalculus natronophilus	species
+1385511	-2	Pontibacillus marinus BH030004 = DSM 16465	strain
+1869227	-2	bacterium	species
+1872119	-2	Acidobacterium sp.	species
+192	-2	Azospirillum brasilense	species
+562	-2	Escherichia coli	species
+666	-2	Vibrio cholerae	species
+774	-2	Bartonella bacilliformis	species
+883	-2	Desulfovibrio vulgaris str. 'Miyazaki F'	strain
+891	-2	Desulfuromonas acetoxidans	species
+989	-2	Marinilabilia salmonicolor	species
+1026	-2	Marinoscillum furvescens	species
+1757	-2	Thermoanaerobacter ethanolicus	species
+1855	-2	Frankia sp.	species
+2246	-2	Haloferax volcanii	species
+5454	-2	Ascochyta rabiei	species
+29295	-2	halophilic archaeon	species
+29346	-2	[Clostridium] paradoxum	species
+29355	-2	Ruminiclostridium cellobioparum	species
+29918	-2	Cladosporium herbarum	species
+36651	-2	Penicillium digitatum	species
+45656	-2	Desulfonema limicola	species
+55169	-2	Botryosphaeria dothidea	species
+55601	-2	Vibrio anguillarum	species
+69359	-2	Thiohalocapsa halophila	species
+69768	-2	Penicillium citreonigrum	species
+93683	-2	Roseivivax halodurans	species
+96561	-2	Desulfococcus oleovorans Hxd3	strain
+162209	-2	Paenibacillus naphthalenovorans	species
+187272	-2	Alkalilimnicola ehrlichii MLHE-1	strain
+194439	-2	Chlorobaculum tepidum TLS	strain
+196162	-2	Nocardioides sp. JS614	species
+223182	-2	Halobacterium noricense	species
+224911	-2	Bradyrhizobium diazoefficiens USDA 110	strain
+226126	-2	Saccharomyces mikatae IFO 1815	strain
+281689	-2	Desulfuromonas acetoxidans DSM 684	strain
+287752	-2	Aurantimonas manganoxydans SI85-9A1	strain
+314230	-2	Blastopirellula marina DSM 3645	strain
+314260	-2	Parvularcula bermudensis HTCC2503	strain
+314278	-2	Nitrococcus mobilis Nb-231	strain
+323259	-2	Methanospirillum hungatei JF-1	strain
+326427	-2	Chloroflexus aggregans DSM 9485	strain
+348780	-2	Natronomonas pharaonis DSM 2160	strain
+349124	-2	Halorhodospira halophila SL1	strain
+351348	-2	Marinobacter hydrocarbonoclasticus VT8	strain
+378806	-2	Stigmatella aurantiaca DW4/3-1	strain
+387889	-2	Prauserella salsuginis	species
+426117	-2	Methylobacterium sp. 4-46	species
+435590	-2	Bacteroides vulgatus ATCC 8482	strain
+436907	-2	Vanderwaltozyma polyspora DSM 70294	strain
+439495	-2	Pseudovibrio sp. JE062	species
+457424	-2	Bacteroides fragilis 3_1_12	strain
+467200	-2	Streptomyces griseoflavus Tu4000	strain
+479432	-2	Streptosporangium roseum DSM 43021	strain
+504472	-2	Spirosoma linguale DSM 74	strain
+509191	-2	Hungateiclostridium cellulolyticum CD2	strain
+523103	-2	Trichophyton mentagrophytes	species
+525897	-2	Desulfomicrobium baculatum DSM 4028	strain
+525903	-2	Thermanaerovibrio acidaminovorans DSM 6589	strain
+553466	-2	Halogranum rubrum	species
+589865	-2	Desulfurivibrio alkaliphilus AHT 2	strain
+589924	-2	Ferroglobus placidus DSM 10642	strain
+592010	-2	Abiotrophia defectiva ATCC 49176	strain
+596151	-2	Desulfovibrio fructosivorans JJ	strain
+622637	-2	Methylocystis sp. ATCC 49242	species
+641491	-2	Desulfovibrio desulfuricans ND132	species
+643867	-2	Marivirga tractuosa DSM 4126	strain
+652017	-2	Nesterenkonia sp. AN1	species
+655815	-2	Zunongwangia profunda SM-A87	strain
+702452	-2	Listeria seeligeri FSL S4-171	strain
+765912	-2	Thioflavicoccus mobilis 8321	strain
+1121085	-2	Bacillus aidingensis DSM 18341	strain
+1121915	-2	Geoalkalibacter ferrihydriticus DSM 17813	strain
+1121945	-2	Halorubrum ezzemoulense DSM 17463	strain
+2026239	-2	Pusillimonas maritima	species
+154	-2	Spirochaeta thermophila	species
+668	-2	Aliivibrio fischeri	species
+982	-2	Saccharicrinis fermentans	species
+1027	-2	Microscilla marina	species
+2209	-2	Methanosarcina mazei	species
+2734	-2	Symbiobacterium thermophilum	species
+29549	-2	Rhodothermus marinus	species
+34085	-2	Riemerella anatipestifer	species
+36923	-2	Diaporthe phaseolorum	species
+38986	-2	Acholeplasma palmae	species
+41062	-2	Aspergillus leporis	species
+45657	-2	Desulfonema ishimotonii	species
+49447	-2	Halochromatium salexigens	species
+52004	-2	Natroniella acetigena	species
+52769	-2	Actinomyces gerencseriae	species
+70792	-2	Penicillium corylophilum	species
+76009	-2	Fusibacter paucivorans	species
+139239	-2	Pyrenophora lolii	species
+174315	-2	Mycosphaerella sp. 2 SAP133	species
+214688	-2	Gemmata obscuriglobus UQM 2246	strain
+274539	-2	Chlorobaculum parvum	species
+313589	-2	Janibacter sp. HTCC2649	species
+314254	-2	Oceanicaulis sp. HTCC2633	species
+316067	-2	Geobacter daltonii FRC-32	strain
+319629	-2	Aspergillus brasiliensis	species
+321614	-2	Parastagonospora nodorum SN15	strain
+365340	-2	Rhodovulum imhoffii	species
+367189	-2	Haladaptatus paucihalophilus	species
+370438	-2	Pelotomaculum thermopropionicum SI	strain
+375929	-2	Natranaerobius thermophilus	species
+387890	-2	Prauserella aidingensis	species
+401526	-2	Thermosinus carboxydivorans Nor1	strain
+402884	-2	Cereibacter changlensis	species
+427923	-2	Desulfurivibrio alkaliphilus	species
+432099	-2	Kazachstania yakushimaensis	species
+445335	-2	Clostridium botulinum NCTC 2916	strain
+446470	-2	Stackebrandtia nassauensis DSM 44728	strain
+457391	-2	Bacteroides sp. 3_1_33FAA	species
+457570	-2	Natranaerobius thermophilus JW/NM-WN-LF	strain
+471855	-2	Slackia heliotrinireducens DSM 20476	strain
+485913	-2	Ktedonobacter racemifer DSM 44963	strain
+485917	-2	Pedobacter heparinus DSM 2366	strain
+504728	-2	Meiothermus ruber DSM 1279	strain
+519442	-2	Halorhabdus utahensis DSM 12940	strain
+520487	-2	Brucella suis bv. 3 str. 686	strain
+548474	-2	Staphylococcus aureus subsp. aureus TCH130	strain
+566550	-2	Hungatella hathewayi DSM 13479	strain
+577650	-2	Desulfobulbus propionicus DSM 2032	strain
+621372	-2	Paenibacillus sp. oral taxon 786 str. D14	strain
+643562	-2	Pseudodesulfovibrio aespoeensis Aspo-2	strain
+649349	-2	Leadbetterella byssophila DSM 17132	strain
+698827	-2	Desulfonatronovibrio magnus	species
+714943	-2	Mucilaginibacter paludis DSM 18603	strain
+744979	-2	Ahrensia sp. R2A130	species
+768066	-2	Halomonas elongata DSM 2581	strain
+858215	-2	Thermoanaerobacterium xylanolyticum LX-11	strain
+887929	-2	Pseudoramibacter alactolyticus ATCC 23263	strain
+1069448	-2	Nitriliruptor alkaliphilus DSM 45188	strain
+1400303	-2	Fuscopannaria maritima	species
+1906665	-2	archaeon	species
+2081591	-2	Parapyrenis maritima	species
+156	-2	Treponema zuelzerae	species
+173	-2	Leptospira interrogans	species
+669	-2	Vibrio harveyi	species
+1087	-2	Rhodovibrio salinarum	species
+1229	-2	Nitrosococcus oceani	species
+1462	-2	Geobacillus kaustophilus	species
+2257	-2	Natronomonas pharaonis	species
+4932	-2	Saccharomyces cerevisiae	species
+28122	-2	Fibrobacter intestinalis	species
+28188	-2	Capnocytophaga canimorsus	species
+33075	-2	Acidobacterium capsulatum	species
+36874	-2	Porphyromonas cangingivalis	species
+36907	-2	Kazachstania telluris	species
+39778	-2	Veillonella dispar	species
+49118	-2	Candidatus Arthromitus sp. SFB-mouse	species
+53953	-2	Pyrococcus horikoshii	species
+60847	-2	Halogeometricum borinquense	species
+69895	-2	Tindallia magadiensis	species
+70993	-2	Flexithrix dorotheae	species
+91844	-2	Candidatus Portiera aleyrodidarum	species
+104176	-2	Oscillochloris trichoides	species
+106634	-2	Thioalkalivibrio versutus	species
+171164	-2	Halosimplex carlsbadense	species
+177437	-2	Desulfobacterium autotrophicum HRM2	strain
+184592	-2	Chaetoceros gracilis	species
+209897	-2	Afifella pfennigii	species
+224324	-2	Aquifex aeolicus VF5	strain
+240015	-2	Acidobacterium capsulatum ATCC 51196	strain
+246197	-2	Myxococcus xanthus DK 1622	strain
+257501	-2	Candidatus Chlorothrix halophila	species
+264951	-2	Byssochlamys spectabilis	species
+289376	-2	Thermodesulfovibrio yellowstonii DSM 11347	strain
+292459	-2	Symbiobacterium thermophilum IAM 14863	strain
+293826	-2	Alkaliphilus metalliredigens QYMF	strain
+298653	-2	Frankia sp. EAN1pec	species
+309800	-2	Haloferax volcanii DS2	strain
+314231	-2	Fulvimarina pelagi HTCC2506	strain
+314345	-2	Mariprofundus ferrooxydans PV-1	strain
+316274	-2	Herpetosiphon aurantiacus DSM 785	strain
+320502	-2	Hungateiclostridium alkalicellulosi	species
+330214	-2	Nitrospira defluvii	species
+331678	-2	Chlorobium phaeobacteroides BS1	strain
+335543	-2	Syntrophobacter fumaroxidans MPOB	strain
+338963	-2	Pelobacter carbinolicus DSM 2380	strain
+338969	-2	Rhodoferax ferrireducens T118	strain
+383372	-2	Roseiflexus castenholzii DSM 13941	strain
+384765	-2	Labrenzia aggregata IAM 12614	strain
+396595	-2	Thioalkalivibrio sp. K90mix	species
+404589	-2	Anaeromyxobacter sp. Fw109-5	species
+411459	-2	Blautia obeum ATCC 29174	strain
+411463	-2	Eubacterium ventriosum ATCC 27560	strain
+411467	-2	Pseudoflavonifractor capillosus ATCC 29799	strain
+414684	-2	Rhodospirillum centenum SW	strain
+422288	-2	Beggiatoa sp. SS	species
+429009	-2	Ammonifex degensii KC4	strain
+439235	-2	Desulfatibacillum alkenivorans AK-01	strain
+443143	-2	Geobacter sp. M18	species
+456320	-2	Methanococcus voltae A3	strain
+469382	-2	Halogeometricum borinquense DSM 11551	strain
+501479	-2	Citreicella sp. SE45	species
+516466	-2	Burkholderia sp. H160	species
+520488	-2	Brucella suis bv. 4 str. 40	strain
+526222	-2	Desulfovibrio salexigens DSM 2638	strain
+526227	-2	Meiothermus silvanus DSM 9946	strain
+572477	-2	Allochromatium vinosum DSM 180	strain
+595537	-2	Variovorax paradoxus EPS	strain
+626939	-2	Phascolarctobacterium succinatutens YIT 12067	strain
+656519	-2	Halanaerobium hydrogeniformans	species
+717231	-2	Flexistipes sinusarabici DSM 4947	strain
+746128	-2	Aspergillus fumigatus	species
+867903	-2	Thermaerobacter subterraneus DSM 13965	strain
+1122204	-2	Marinococcus luteus	species
+1122601	-2	Nesiotobacter exalbescens DSM 16456	strain
+1123236	-2	Salinimonas chungwhensis DSM 16280	strain
+128	-2	Isosphaera pallida	species
+147	-2	Spirochaeta aurantia	species
+165	-2	Treponema saccharophilum	species
+174	-2	Leptospira borgpetersenii	species
+294	-2	Pseudomonas fluorescens	species
+670	-2	Vibrio parahaemolyticus	species
+777	-2	Coxiella burnetii	species
+2047	-2	Rothia dentocariosa	species
+5083	-2	Penicillium canescens	species
+29290	-2	Candidatus Magnetobacterium bavaricum	species
+36653	-2	Penicillium commune	species
+49893	-2	Holospora obtusa	species
+54767	-2	Desulfovibrio indonesiensis	species
+63822	-2	Penicillium spinulosum	species
+69787	-2	Penicillium sclerotigenum	species
+107401	-2	Tenacibaculum maritimum	species
+163503	-2	Chaetoceros socialis	species
+179326	-2	Schizothecium curvisporum	species
+180311	-2	Hespellia stercorisuis	species
+188937	-2	Methanosarcina acetivorans C2A	strain
+203122	-2	Saccharophagus degradans 2-40	strain
+207559	-2	Desulfovibrio alaskensis G20	strain
+243090	-2	Rhodopirellula baltica SH 1	strain
+243233	-2	Methylococcus capsulatus str. Bath	strain
+266117	-2	Rubrobacter xylanophilus DSM 9941	strain
+269799	-2	Geobacter metallireducens GS-15	strain
+270374	-2	Marinobacter sp. ELB17	species
+290400	-2	Jannaschia sp. CCS1	species
+309807	-2	Salinibacter ruber DSM 13855	strain
+313596	-2	Robiginitalea biformata HTCC2501	strain
+313603	-2	Maribacter sp. HTCC2170	species
+324057	-2	Paenibacillus sp. JDR-2	species
+340177	-2	Chlorobium chlorochromatii CaD3	strain
+350688	-2	Alkaliphilus oremlandii OhILAs	strain
+373903	-2	Halothermothrix orenii H 168	strain
+387343	-2	Halopiger xanaduensis	species
+396588	-2	Thioalkalivibrio sulfidiphilus HL-EbGr7	strain
+422289	-2	Beggiatoa sp. PS	species
+428125	-2	[Clostridium] leptum DSM 753	strain
+445336	-2	Clostridium botulinum Bf	strain
+446471	-2	Xylanimonas cellulosilytica DSM 15894	strain
+456482	-2	Haemophilus influenzae HK1212	strain
+471852	-2	Thermomonospora curvata DSM 43183	strain
+478801	-2	Kytococcus sedentarius DSM 20547	strain
+485914	-2	Halomicrobium mukohataei DSM 12286	strain
+492476	-2	Hungateiclostridium thermocellum JW20	strain
+498848	-2	Thermus aquaticus Y51MC23	strain
+517418	-2	Chloroherpeton thalassium ATCC 35110	strain
+521674	-2	Planctopirus limnophila DSM 3776	strain
+555079	-2	Thermosediminibacter oceani DSM 16646	strain
+635013	-2	Thermincola potens JR	strain
+637616	-2	Methylophaga thiooxydans DMS010	strain
+644282	-2	Desulfarculus baarsii DSM 2075	strain
+648757	-2	Rhodomicrobium vannielii ATCC 17100	strain
+653733	-2	Desulfurispirillum indicum S5	strain
+694430	-2	Natronococcus occultus SP4	strain
+697282	-2	Methylobacter tundripaludum SV96	strain
+717606	-2	Paenibacillus curdlanolyticus YK9	strain
+926569	-2	Anaerolinea thermophila UNI-1	strain
+926690	-2	Haloplanus natans DSM 17983	strain
+1121087	-2	Bacillus chagannorensis DSM 18086	strain
+1121463	-2	Desulfovibrio senezii DSM 8436	strain
+1123275	-2	Spirochaeta cellobiosiphila DSM 17781	strain
+1368474	-2	Romboutsia sedimentorum	species
+GO:0005515	-23	protein binding	na
+GO:0006790	-21	sulfur compound metabolic process	na
+GO:0007165	-21	signal transduction	na
+GO:0009056	-21	catabolic process	na
+GO:0009987	-21	cellular process	na
+GO:0015318	-23	inorganic molecular entity transmembrane transporter activity	na
+GO:0015977	-21	carbon fixation	na
+GO:0016684	-23	oxidoreductase activity, acting on peroxide as acceptor	na
+GO:0016705	-23	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	na
+GO:0016721	-23	oxidoreductase activity, acting on superoxide radicals as acceptor	na
+GO:0016772	-23	transferase activity, transferring phosphorus-containing groups	na
+GO:0016818	-23	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	na
+GO:0016835	-23	carbon-oxygen lyase activity	na
+GO:0022804	-23	active transmembrane transporter activity	na
+GO:0032501	-21	multicellular organismal process	na
+GO:0034654	-21	nucleobase-containing compound biosynthetic process	na
+GO:0040011	-21	locomotion	na
+GO:0042221	-21	response to chemical	na
+GO:0044237	-21	cellular metabolic process	na
+GO:0044249	-21	cellular biosynthetic process	na
+GO:0048878	-21	chemical homeostasis	na
+GO:0050794	-21	regulation of cellular process	na
+GO:0050896	-21	response to stimulus	na
+GO:0098655	-21	cation transmembrane transport	na
+GO:0140097	-23	catalytic activity, acting on DNA	na
+GO:1901576	-21	organic substance biosynthetic process	na
+GO:1990748	-21	cellular detoxification	na
+ENVO:00002121	-27	alkaline salt lake	na
+GO:0006807	-21	nitrogen compound metabolic process	na
+GO:0009566	-21	fertilization	na
+GO:0015075	-23	ion transmembrane transporter activity	na
+GO:0015399	-23	primary active transmembrane transporter activity	na
+GO:0015979	-21	photosynthesis	na
+GO:0016462	-23	pyrophosphatase activity	na
+GO:0016836	-23	hydro-lyase activity	na
+GO:0032502	-21	developmental process	na
+GO:0042625	-23	ATPase-coupled ion transmembrane transporter activity	na
+GO:0043167	-23	ion binding	na
+GO:0043603	-21	cellular amide metabolic process	na
+GO:0044238	-21	primary metabolic process	na
+GO:0044419	-21	interspecies interaction between organisms	na
+GO:0046483	-21	heterocycle metabolic process	na
+GO:0046903	-21	secretion	na
+GO:0051716	-21	cellular response to stimulus	na
+GO:0055114	-21	oxidation-reduction process	na
+GO:0071684	-21	organism emergence from protective structure	na
+ENVO:00002010	-27	saline water	na
+ENVO:00003044	-27	brine	na
+GO:0004089	-23	carbonate dehydratase activity	na
+GO:0004601	-23	peroxidase activity	na
+GO:0006091	-21	generation of precursor metabolites and energy	na
+GO:0006725	-21	cellular aromatic compound metabolic process	na
+GO:0006885	-21	regulation of pH	na
+GO:0006950	-21	response to stress	na
+GO:0006970	-21	response to osmotic stress	na
+GO:0009058	-21	biosynthetic process	na
+GO:0009605	-21	response to external stimulus	na
+GO:0015980	-21	energy derivation by oxidation of organic compounds	na
+GO:0016491	-23	oxidoreductase activity	na
+GO:0016740	-23	transferase activity	na
+GO:0016829	-23	lyase activity	na
+GO:0017111	-23	nucleoside-triphosphatase activity	na
+GO:0022853	-23	active ion transmembrane transporter activity	na
+GO:0023052	-21	signaling	na
+GO:0042538	-21	hyperosmotic salinity response	na
+GO:0042626	-23	ATPase-coupled transmembrane transporter activity	na
+GO:0043604	-21	amide biosynthetic process	na
+GO:0051179	-21	localization	na
+GO:0055080	-21	cation homeostasis	na
+GO:0060089	-23	molecular transducer activity	na
+GO:0065007	-21	biological regulation	na
+ENVO:00000054	-27	saline marsh	na
+ENVO:00002252	-27	solonchak	na
+GO:0000003	-21	reproduction	na
+GO:0003008	-21	system process	na
+GO:0003674	-23	molecular_function	na
+GO:0004497	-23	monooxygenase activity	na
+GO:0005391	-23	sodium:potassium-exchanging ATPase activity	na
+GO:0006793	-21	phosphorus metabolic process	na
+GO:0008150	-21	biological_process	na
+GO:0008324	-23	cation transmembrane transporter activity	na
+GO:0009059	-21	macromolecule biosynthetic process	na
+GO:0010248	-21	establishment or maintenance of transmembrane electrochemical gradient	na
+GO:0015077	-23	monovalent inorganic cation transmembrane transporter activity	na
+GO:0015662	-23	ion transmembrane transporter activity, phosphorylative mechanism	na
+GO:0016830	-23	carbon-carbon lyase activity	na
+GO:0016887	-23	ATPase activity	na
+GO:0019829	-23	ATPase-coupled cation transmembrane transporter activity	na
+GO:0030545	-23	receptor regulator activity	na
+GO:0034641	-21	cellular nitrogen compound metabolic process	na
+GO:0038023	-23	signaling receptor activity	na
+GO:0044267	-21	cellular protein metabolic process	na
+GO:0046873	-23	metal ion transmembrane transporter activity	na
+GO:0048856	-21	anatomical structure development	na
+GO:0065008	-21	regulation of biological quality	na
+GO:0090304	-21	nucleic acid metabolic process	na
+GO:0097237	-21	cellular response to toxic substance	na
+ENVO:00000055	-27	saline evaporation pond	na
+ENVO:00000279	-27	saline pan	na
+ENVO:00002012	-27	hypersaline water	na
+GO:0006139	-21	nucleobase-containing compound metabolic process	na
+GO:0006810	-21	transport	na
+GO:0006972	-21	hyperosmotic response	na
+GO:0008152	-21	metabolic process	na
+GO:0009651	-21	response to salt stress	na
+GO:0015672	-21	monovalent inorganic cation transport	na
+GO:0016831	-23	carboxy-lyase activity	na
+GO:0022900	-21	electron transport chain	na
+GO:0030546	-23	signaling receptor activator activity	na
+GO:0034220	-21	ion transmembrane transport	na
+GO:0040007	-21	growth	na
+GO:0042592	-21	homeostatic process	na
+GO:0043170	-21	macromolecule metabolic process	na
+GO:0050789	-21	regulation of biological process	na
+GO:0065009	-21	regulation of molecular function	na
+GO:0070887	-21	cellular response to chemical stimulus	na
+GO:0098754	-21	detoxification	na
+GO:1901564	-21	organonitrogen compound metabolic process	na
+ENVO:00000240	-27	saline wetland	na
+GO:0006113	-21	fermentation	na
+GO:0006811	-21	ion transport	na
+GO:0007154	-21	cell communication	na
+GO:0007275	-21	multicellular organism development	na
+GO:0007610	-21	behavior	na
+GO:0008554	-23	sodium transmembrane transporter activity, phosphorylative mechanism	na
+GO:0009628	-21	response to abiotic stimulus	na
+GO:0009636	-21	response to toxic substance	na
+GO:0015079	-23	potassium ion transmembrane transporter activity	na
+GO:0016787	-23	hydrolase activity	na
+GO:0019419	-21	sulfate reduction	na
+GO:0019438	-21	aromatic compound biosynthetic process	na
+GO:0019953	-21	sexual reproduction	na
+GO:0044281	-21	small molecule metabolic process	na
+GO:0044403	-21	symbiotic process	na
+GO:0044703	-21	multi-organism reproductive process	na
+GO:0051234	-21	establishment of localization	na
+GO:0055067	-21	monovalent inorganic cation homeostasis	na
+GO:0071704	-21	organic substance metabolic process	na
+GO:0097159	-23	organic cyclic compound binding	na
+GO:0098660	-21	inorganic ion transmembrane transport	na
+GO:0098771	-21	inorganic ion homeostasis	na
+GO:1901360	-21	organic cyclic compound metabolic process	na
+ENVO:00000017	-27	saline hydrographic feature	na
+ENVO:01000022	-27	marine salt marsh biome	na
+GO:0098772	-23	molecular function regulator	na
+GO:0003824	-23	catalytic activity	na
+GO:0003987	-23	acetate-CoA ligase activity	na
+GO:0004096	-23	catalase activity	na
+GO:0005102	-23	signaling receptor binding	na
+GO:0005179	-23	hormone activity	na
+GO:0005198	-23	structural molecule activity	na
+GO:0005215	-23	transporter activity	na
+GO:0005488	-23	binding	na
+GO:0006796	-21	phosphate-containing compound metabolic process	na
+GO:0006812	-21	cation transport	na
+GO:0007552	-21	metamorphosis	na
+GO:0010467	-21	gene expression	na
+GO:0016779	-23	nucleotidyltransferase activity	na
+GO:0016788	-23	hydrolase activity, acting on ester bonds	na
+GO:0016798	-23	hydrolase activity, acting on glycosyl bonds	na
+GO:0018130	-21	heterocycle biosynthetic process	na
+GO:0022857	-23	transmembrane transporter activity	na
+GO:0030104	-21	water homeostasis	na
+GO:0044271	-21	cellular nitrogen compound biosynthetic process	na
+GO:0045851	-21	pH reduction	na
+GO:0055085	-21	transmembrane transport	na
+GO:0098869	-21	cellular oxidant detoxification	na
+GO:1901566	-21	organonitrogen compound biosynthetic process	na
+GO:0003735	-23	structural constituent of ribosome	na
+GO:0004553	-23	hydrolase activity, hydrolyzing O-glycosyl compounds	na
+GO:0005216	-23	ion channel activity	na
+GO:0006259	-21	DNA metabolic process	na
+GO:0007586	-21	digestion	na
+GO:0008233	-23	peptidase activity	na
+GO:0008556	-23	potassium transmembrane transporter activity, phosphorylative mechanism	na
+GO:0009055	-23	electron transfer activity	na
+GO:0015081	-23	sodium ion transmembrane transporter activity	na
+GO:0015267	-23	channel activity	na
+GO:0016209	-23	antioxidant activity	na
+GO:0016301	-23	kinase activity	na
+GO:0016310	-21	phosphorylation	na
+GO:0016817	-23	hydrolase activity, acting on acid anhydrides	na
+GO:0019538	-21	protein metabolic process	na
+GO:0022414	-21	reproductive process	na
+GO:0022803	-23	passive transmembrane transporter activity	na
+GO:0022890	-23	inorganic cation transmembrane transporter activity	na
+GO:0034645	-21	cellular macromolecule biosynthetic process	na
+GO:0035188	-21	hatching	na
+GO:0043884	-23	CO-methylating acetyl-CoA synthase activity	na
+GO:0044260	-21	cellular macromolecule metabolic process	na
+GO:0046481	-23	digalactosyldiacylglycerol synthase activity	na
+GO:0048018	-23	receptor ligand activity	na
+GO:0050801	-21	ion homeostasis	na
+GO:0051704	-21	multi-organism process	na
+GO:0098662	-21	inorganic cation transmembrane transport	na
+GO:0140096	-23	catalytic activity, acting on a protein	na
+GO:1901362	-21	organic cyclic compound biosynthetic process	na
+GO:1901575	-21	organic substance catabolic process	na
+ENVO:00000019	-27	saline lake	na
+ENVO:00002209	-27	saline lake sediment	na
+GO:0098772	-23	GO:0098772	na
