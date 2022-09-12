@@ -40,6 +40,49 @@ Searching the PREGO knowledge base for the above terms results in multilayer net
 data, environments, microbes and processes as compliled from the Literature, 
 Environmental Samples and Annotated Genomes.
 
+
+PREGO's knowledge space contains 94042 associations of these entities from all
+channels combined. This information is obtained by a 
+[filtering script](https://github.com/lab42open-team/prego_statistics/blob/master/filter_saline_envo.awk)
+executed on bulk data available for download (see the [paper](https://www.mdpi.com/2076-2607/10/2/293))
+
+```
+20344 experiments
+  94 knowledge
+73604 textmining
+```
+
+PREGO scoring scheme assists in filtering the most probable associations.
+
+```
+gawk -F"\t" '{if ($1 ~ /textmining/){if ($6>4.8){print $0}} else {if ($8>=3){print $0}}}' saline_envo_pairs.tsv > saline_envo_pairs_filters.tsv
+```
+
+Narrows down to these associations
+```
+491 experiments
+  94 knowledge
+ 711 textmining
+```
+
+In order to add metadata we create a file that contains the ids, name, layer 
+and rank (if it is a taxon). We further filter the microbes to keep only 
+species and strains.
+
+```
+gawk -F"\t" '(ARGIND==1){terms[$3]=1; terms[$5]=1}(ARGIND==2){rank[$1]=$5}(ARGIND==3 && ($2 in terms)){if ($1==-2) {if (rank[$2]=="species" || rank[$2]=="strain"){print $2 FS $3 FS $1 FS rank[$2]}} ; if ($1 !="-2" && $1 !=-3) {print $2 FS $3 FS $1 FS "na"} }' saline_envo_pairs_filters.tsv nodes.dmp /data/dictionary/database_preferred.tsv > saline_envo_pairs_metadata.tsv
+
+```
+Because of the last filtering of species and strains we have to filter the 
+edgelist again based on the latest ids.
+
+```
+ gawk -F"\t" 'FNR==NR{terms[$1]=1; next}($5 in terms){print}' saline_envo_pairs_metadata.tsv saline_envo_pairs_filters.tsv > saline_envo_pairs_edgelist.tsv
+```
+
+The final network has 4 layers, 758 nodes and 904 edges in total.
+
+
 ### References
 - Microorganisms in Saline Environments: Strategies and Functions
 - Environmental Microbiology: Fundamentals and Applications
