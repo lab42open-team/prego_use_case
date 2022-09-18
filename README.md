@@ -104,10 +104,10 @@ tripartite network with Biological Processes, Organisms and Environments as laye
 There are two types edges that show the PREGO channel that each is association is
 derived from forming a multi-edged network. 
 
-Process, Organism and Environment association tables as derived from PREGO. On 
+(C) Process, Organism and Environment association tables as derived from PREGO. On 
 the left are the associations of the anaerobic ammonium oxidation process with 
 organisms. In the middle are the associations of the genus Beggiatoa with 
-Environments and their channel sources. The multilayer and multiedge ARENA3D web 
+Environments and their channel sources. (D) The multilayer and multiedge ARENA3D web 
 visualization of these 2 distinct tables with different channels. There are 2 
 associations of Beggiatoa with Environments, sediment and coast, that form multi-edges.
 
