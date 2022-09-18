@@ -89,6 +89,31 @@ The final network has 4 layers, 758 nodes and 904 edges in total.
 
 ## Single term search
 
+PREGO users can query with a single term to find the associated terms. For
+example 
+
+In the second example, we queried the PREGO (18) knowledge base for anaerobic 
+ammonium oxidation, a biological process (gene ontology term GO:0019331). PREGO 
+contains associations with microorganism taxa in the Literature channel for this query. We 
+filtered the top 11 organisms at the genus level that where co-mentioned in the scientific 
+literature. From these microorganisms we selected the genus, Beggiatoa to find 
+the associated environment types. We selected the top 12 environments from the 
+Literature channel and the top 8 environments from the Environmental Samples 
+channel to a total of 20 environment associations. This compilation forms a 
+tripartite network with Biological Processes, Organisms and Environments as layers. 
+There are two types edges that show the PREGO channel that each is association is
+derived from forming a multi-edged network. 
+
+Process, Organism and Environment association tables as derived from PREGO. On 
+the left are the associations of the anaerobic ammonium oxidation process with 
+organisms. In the middle are the associations of the genus Beggiatoa with 
+Environments and their channel sources. The multilayer and multiedge ARENA3D web 
+visualization of these 2 distinct tables with different channels. There are 2 
+associations of Beggiatoa with Environments, sediment and coast, that form multi-edges.
+
+For each taxonomic group, the related environment types and biological processes were retrieved. 
+
+As in the first case, association sources (literature, environmental sample records and genome annotations) are represented as different information channels (Figure 2C).
 
 ## Bulk Download general information
 
