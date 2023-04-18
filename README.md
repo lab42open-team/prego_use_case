@@ -1,8 +1,9 @@
 # PREGO use cases
 
-Here we have a collection of some ways to use PREGO knowledge base.
+Here we have a collection of some ways to use PREGO knowledge base and how to
+visualise the resulted networks using tools like [Arena3D web](https://bib.fleming.gr:8084/app/arena3d).
 
-## Term collection from biological questions
+## Term compilation regarding specific knowledge spaces
 
 There are cases that microbiologists are focused on specific environmental 
 characteristics in their research. An important abiotic characteristic of 
@@ -40,7 +41,6 @@ Searching the PREGO knowledge base for the above terms results in multilayer net
 data, environments, microbes and processes as compliled from the Literature, 
 Environmental Samples and Annotated Genomes.
 
-
 PREGO's knowledge space contains 94042 associations of these entities from all
 channels combined. This information is obtained by a 
 [filtering script](https://github.com/lab42open-team/prego_statistics/blob/master/filter_saline_envo.awk)
@@ -52,7 +52,9 @@ executed on bulk data available for download (see the [paper](https://www.mdpi.c
 73604 textmining
 ```
 
-PREGO scoring scheme assists in filtering the most probable associations.
+PREGO scoring scheme assists in filtering the most probable associations. In
+this case we filtered the Literature channel associations with score higher
+that 4.8 and the rest of the channels with score higher or equal to 3.
 
 ```
 gawk -F"\t" '{if ($1 ~ /textmining/){if ($6>4.8){print $0}} else {if ($8>=3){print $0}}}' saline_envo_pairs.tsv > saline_envo_pairs_filters.tsv
@@ -67,7 +69,7 @@ Narrows down to these associations
 
 In order to add metadata we create a file that contains the ids, name, layer 
 and rank (if it is a taxon). We further filter the microbes to keep only 
-species and strains.
+species and strains taxonomic levels.
 
 ```
 gawk -F"\t" '(ARGIND==1){terms[$3]=1; terms[$5]=1}(ARGIND==2){rank[$1]=$5}(ARGIND==3 && ($2 in terms)){if ($1==-2) {if (rank[$2]=="species" || rank[$2]=="strain"){print $2 FS $3 FS $1 FS rank[$2]}} ; if ($1 !="-2" && $1 !=-3) {print $2 FS $3 FS $1 FS "na"} }' saline_envo_pairs_filters.tsv nodes.dmp /data/dictionary/database_preferred.tsv > saline_envo_pairs_metadata.tsv
@@ -119,5 +121,6 @@ There are two types edges that show the PREGO channel that each is association i
 derived from forming a multi-edged network. This network can be visualized with
 [Arena3D web](https://bib.fleming.gr:8084/app/arena3d). There are 2 associations
 of Beggiatoa with Environments, sediment and coast, that form multi-edges.
+
 
 
