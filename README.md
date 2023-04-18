@@ -82,8 +82,14 @@ edgelist again based on the latest ids.
  gawk -F"\t" 'FNR==NR{terms[$1]=1; next}($5 in terms){print}' saline_envo_pairs_metadata.tsv saline_envo_pairs_filters.tsv > saline_envo_pairs_edgelist.tsv
 ```
 
-The final network has 4 layers, 758 nodes and 904 edges in total.
+To display all the attributes names instead of ids run the following line
 
+```
+gawk -F"\t" 'BEGIN{channel["-2"]="Organism";channel["-27"]="Environment";channel["-21"]="Biological Process";channel["-23"]="Molecular Function"}(ARGIND==1){node[$1]=$2}(ARGIND==2){ if (FNR==1) {print $0} else {print node[$1] FS node[$2] FS $3 FS channel[$4] FS channel[$5] FS $6}}'  prego_saline_environments/saline_envo_pairs_metadata.tsv prego_saline_environments/saline_envo_pairs_edgelist-arena.tsv > arena_example_prego_saline_edgelist_names.tsv
+
+```
+
+The final network has 4 layers, 758 nodes and 904 edges in total.
 
 ### References
 - Microorganisms in Saline Environments: Strategies and Functions
