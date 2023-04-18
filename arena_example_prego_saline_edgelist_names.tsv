@@ -1,0 +1,905 @@
+SourceNode	TargetNode	Weight	SourceLayer	TargetLayer	Channel
+saline lake	Nitriliruptor alkaliphilus DSM 45188	3	Environment	Organism	knowledge
+saline lake	Arsenophonus nasoniae DSM 15247	3	Environment	Organism	knowledge
+saline lake	Bacillus aidingensis DSM 18341	3	Environment	Organism	knowledge
+saline lake	Bacillus chagannorensis DSM 18086	3	Environment	Organism	knowledge
+saline lake	Geoalkalibacter ferrihydriticus DSM 17813	3	Environment	Organism	knowledge
+saline lake	Jonesia quinghaiensis DSM 15701	3	Environment	Organism	knowledge
+saline lake	Marinospirillum alkaliphilum DSM 21637	3	Environment	Organism	knowledge
+saline lake	Salinicoccus alkaliphilus DSM 16010	3	Environment	Organism	knowledge
+saline lake	Salinimicrobium terrae DSM 17865	3	Environment	Organism	knowledge
+saline lake	Salsuginibacillus kocurii DSM 18087	3	Environment	Organism	knowledge
+saline lake	Roseinatronobacter thiooxidans	3	Environment	Organism	knowledge
+saline lake	Bacillus bogoriensis ATCC BAA-922	3	Environment	Organism	knowledge
+saline lake	Hungateiclostridium alkalicellulosi	3	Environment	Organism	knowledge
+saline lake	Desulfosalsimonas propionicica	3	Environment	Organism	knowledge
+saline lake	Prauserella salsuginis	3	Environment	Organism	knowledge
+saline lake	Prauserella aidingensis	3	Environment	Organism	knowledge
+saline lake	Natronincola ferrireducens	3	Environment	Organism	knowledge
+saline lake	Thioalkalivibrio sp. K90mix	3	Environment	Organism	knowledge
+saline lake	Natronincola peptidivorans	3	Environment	Organism	knowledge
+saline lake	Rhodobaca barguzinensis	3	Environment	Organism	knowledge
+saline lake	Halolactibacillus alkaliphilus	3	Environment	Organism	knowledge
+saline lake	Halomicrobium mukohataei DSM 12286	3	Environment	Organism	knowledge
+saline lake	Salsuginibacillus halophilus	3	Environment	Organism	knowledge
+saline lake	Halorhabdus utahensis DSM 12940	3	Environment	Organism	knowledge
+saline lake	Methanohalophilus mahii DSM 5219	3	Environment	Organism	knowledge
+saline lake	Dethiobacter alkaliphilus AHT 1	3	Environment	Organism	knowledge
+saline lake	Desulfonatronospira thiodismutans ASO3-1	3	Environment	Organism	knowledge
+saline lake	Halanaerobium praevalens DSM 2228	3	Environment	Organism	knowledge
+saline lake	Natronococcus occultus SP4	3	Environment	Organism	knowledge
+saline lake	Gracilibacillus halotolerans	3	Environment	Organism	knowledge
+saline lake	Spirochaeta africana DSM 8902	3	Environment	Organism	knowledge
+saline lake	Alkaliflexus imshenetskii DSM 15055	3	Environment	Organism	knowledge
+saline lake	Alkalispirochaeta alkalica DSM 8900	3	Environment	Organism	knowledge
+saline marsh	Spirochaeta cellobiosiphila DSM 17781	3	Environment	Organism	knowledge
+saline marsh	Saccharophagus degradans 2-40	3	Environment	Organism	knowledge
+saline marsh	Saccharophagus degradans 2-40	4	Environment	Organism	knowledge
+saline marsh	Methanococcus voltae A3	3	Environment	Organism	knowledge
+saline marsh	Methanococcus voltae A3	4	Environment	Organism	knowledge
+saline marsh	Halomicrobium mukohataei DSM 12286	3	Environment	Organism	knowledge
+saline marsh	Halomicrobium mukohataei DSM 12286	4	Environment	Organism	knowledge
+saline marsh	Rhodospira trueperi	3	Environment	Organism	knowledge
+saline marsh	Rhodospira trueperi	4	Environment	Organism	knowledge
+saline marsh	Thioflavicoccus mobilis 8321	4	Environment	Organism	knowledge
+saline marsh	Desulfovibrio vulgaris str. 'Miyazaki F'	3	Environment	Organism	knowledge
+saline marsh	Saccharomonospora halophila 8	4	Environment	Organism	knowledge
+saline evaporation pond	Desulfovibrio senezii DSM 8436	3	Environment	Organism	knowledge
+saline evaporation pond	Halomonas ilicicola DSM 19980	3	Environment	Organism	knowledge
+saline evaporation pond	Salinimonas chungwhensis DSM 16280	3	Environment	Organism	knowledge
+saline evaporation pond	Pontibacillus marinus BH030004 = DSM 16465	3	Environment	Organism	knowledge
+saline evaporation pond	Kushneria indalinina	3	Environment	Organism	knowledge
+saline evaporation pond	Candidatus Chlorothrix halophila	3	Environment	Organism	knowledge
+saline evaporation pond	Chromohalobacter salexigens DSM 3043	3	Environment	Organism	knowledge
+saline evaporation pond	Halogeometricum borinquense DSM 11551	3	Environment	Organism	knowledge
+saline water	Halomicrobium katesii DSM 19301	3	Environment	Organism	knowledge
+saline water	Halomonas ilicicola DSM 19980	3	Environment	Organism	knowledge
+saline water	Halomonas lutea DSM 23508	3	Environment	Organism	knowledge
+saline water	Halorubrum ezzemoulense DSM 17463	3	Environment	Organism	knowledge
+saline water	Marinococcus luteus	3	Environment	Organism	knowledge
+saline water	Martelella mediterranea DSM 17316	3	Environment	Organism	knowledge
+saline water	Nesiotobacter exalbescens DSM 16456	3	Environment	Organism	knowledge
+saline water	Photobacterium halotolerans DSM 18316	3	Environment	Organism	knowledge
+saline water	Thermonema rossianum DSM 10300	3	Environment	Organism	knowledge
+saline water	Rubinisphaera brasiliensis DSM 5305	3	Environment	Organism	knowledge
+saline water	Halopiger xanaduensis SH-6	3	Environment	Organism	knowledge
+saline water	Halovivax ruber XH-70	3	Environment	Organism	knowledge
+hypersaline water	Haloplanus natans DSM 17983	3	Environment	Organism	knowledge
+alkaline salt lake	Nitriliruptor alkaliphilus DSM 45188	3	Environment	Organism	knowledge
+alkaline salt lake	Bacillus chagannorensis DSM 18086	3	Environment	Organism	knowledge
+alkaline salt lake	Geoalkalibacter ferrihydriticus DSM 17813	3	Environment	Organism	knowledge
+alkaline salt lake	Jonesia quinghaiensis DSM 15701	3	Environment	Organism	knowledge
+alkaline salt lake	Marinospirillum alkaliphilum DSM 21637	3	Environment	Organism	knowledge
+alkaline salt lake	Salinicoccus alkaliphilus DSM 16010	3	Environment	Organism	knowledge
+alkaline salt lake	Salsuginibacillus kocurii DSM 18087	3	Environment	Organism	knowledge
+alkaline salt lake	Roseinatronobacter thiooxidans	3	Environment	Organism	knowledge
+alkaline salt lake	Bacillus bogoriensis ATCC BAA-922	3	Environment	Organism	knowledge
+alkaline salt lake	Hungateiclostridium alkalicellulosi	3	Environment	Organism	knowledge
+alkaline salt lake	Natronincola ferrireducens	3	Environment	Organism	knowledge
+alkaline salt lake	Thioalkalivibrio sp. K90mix	3	Environment	Organism	knowledge
+alkaline salt lake	Natronincola peptidivorans	3	Environment	Organism	knowledge
+alkaline salt lake	Rhodobaca barguzinensis	3	Environment	Organism	knowledge
+alkaline salt lake	Halolactibacillus alkaliphilus	3	Environment	Organism	knowledge
+alkaline salt lake	Salsuginibacillus halophilus	3	Environment	Organism	knowledge
+alkaline salt lake	Dethiobacter alkaliphilus AHT 1	3	Environment	Organism	knowledge
+alkaline salt lake	Desulfonatronospira thiodismutans ASO3-1	3	Environment	Organism	knowledge
+alkaline salt lake	Natronococcus occultus SP4	3	Environment	Organism	knowledge
+alkaline salt lake	Spirochaeta africana DSM 8902	3	Environment	Organism	knowledge
+alkaline salt lake	Alkaliflexus imshenetskii DSM 15055	3	Environment	Organism	knowledge
+alkaline salt lake	Alkalispirochaeta alkalica DSM 8900	3	Environment	Organism	knowledge
+saline lake sediment	Halolactibacillus alkaliphilus	3	Environment	Organism	knowledge
+saline lake sediment	Salsuginibacillus halophilus	3	Environment	Organism	knowledge
+saline lake sediment	Alkalitalea saponilacus	3	Environment	Organism	knowledge
+brine	Flexistipes sinusarabici DSM 4947	3	Environment	Organism	knowledge
+brine	Spirochaeta africana DSM 8902	3	Environment	Organism	knowledge
+alkaline salt lake	Natroniella acetigena	4.83149716003937	Environment	Organism	textmining
+alkaline salt lake	Tindallia magadiensis	4.94874880461194	Environment	Organism	textmining
+saline lake sediment	Methanosalsum natronophilum	4.81870439858796	Environment	Organism	textmining
+saline evaporation pond	Haloplanus aerogenes	4.90963506047023	Environment	Organism	textmining
+marine salt marsh biome	Parapyrenis maritima	4.93099143454844	Environment	Organism	textmining
+marine salt marsh biome	Fuscopannaria maritima	4.87102297433476	Environment	Organism	textmining
+saline lake sediment	Romboutsia sedimentorum	5.37904301040299	Environment	Organism	textmining
+saline water	Aliivibrio fischeri	5.05454760552954	Environment	Organism	textmining
+saline evaporation pond	digalactosyldiacylglycerol synthase activity	5.6501068482133	Environment	Molecular Function	textmining
+saline water	establishment or maintenance of transmembrane electrochemical gradient	4.86478988713045	Environment	Biological Process	textmining
+saline lake sediment	Desulfuribacillus alkaliarsenatis	5.0328941767828	Environment	Organism	textmining
+saline water	oxidation-reduction process	5.94537949371276	Environment	Biological Process	textmining
+saline water	sodium ion transmembrane transporter activity	5.19845480397516	Environment	Molecular Function	textmining
+saline lake sediment	Desulfonatronovibrio magnus	5.00518019146831	Environment	Organism	textmining
+saline water	ion binding	4.94990399953394	Environment	Molecular Function	textmining
+saline water	ion transmembrane transporter activity, phosphorylative mechanism	5.28493412805244	Environment	Molecular Function	textmining
+marine salt marsh biome	Aspergillus fresenii	5.52139856419102	Environment	Organism	textmining
+saline water	response to toxic substance	5.39177680139551	Environment	Biological Process	textmining
+brine	cellular process	5.40623141723622	Environment	Biological Process	textmining
+saline evaporation pond	Spiribacter salinus	5.24517088435361	Environment	Organism	textmining
+saline water	organic cyclic compound biosynthetic process	5.0147869845409	Environment	Biological Process	textmining
+hypersaline water	hydrolase activity	5.19613105326682	Environment	Molecular Function	textmining
+saline water	response to salt stress	4.91553483365016	Environment	Biological Process	textmining
+saline water	electron transfer activity	5.4796966205409	Environment	Molecular Function	textmining
+saline water	carbonate dehydratase activity	4.9631637259974	Environment	Molecular Function	textmining
+saline marsh	bacterium	4.96460429940708	Environment	Organism	textmining
+saline water	transport	6.0163308163109	Environment	Biological Process	textmining
+saline water	response to chemical	5.53101311698868	Environment	Biological Process	textmining
+saline water	cellular aromatic compound metabolic process	5.17612926154185	Environment	Biological Process	textmining
+saline water	symbiotic process	4.87398872857346	Environment	Biological Process	textmining
+saline water	response to osmotic stress	4.97255664049544	Environment	Biological Process	textmining
+saline water	small molecule metabolic process	5.06683534579759	Environment	Biological Process	textmining
+saline water	pH reduction	5.64183314727099	Environment	Biological Process	textmining
+saline water	system process	5.01842099615009	Environment	Biological Process	textmining
+saline water	growth	6.29934398663832	Environment	Biological Process	textmining
+saline water	response to stress	5.23037627292472	Environment	Biological Process	textmining
+saline water	biological_process	6.82593022965776	Environment	Biological Process	textmining
+saline water	protein binding	5.50592774643332	Environment	Molecular Function	textmining
+hypersaline water	cellular process	5.41976137010956	Environment	Biological Process	textmining
+saline evaporation pond	Halobacterium salinarum	5.45592270149552	Environment	Organism	textmining
+saline water	cation transport	5.01458710595682	Environment	Biological Process	textmining
+alkaline salt lake	Thioalkalivibrio versutus	4.81512233795732	Environment	Organism	textmining
+saline water	organonitrogen compound biosynthetic process	5.04113662020911	Environment	Biological Process	textmining
+saline water	carbon-carbon lyase activity	4.97955560956238	Environment	Molecular Function	textmining
+saline water	passive transmembrane transporter activity	5.11931430176678	Environment	Molecular Function	textmining
+hypersaline water	oxidoreductase activity	5.20296103525492	Environment	Molecular Function	textmining
+saline wetland	cellular metabolic process	4.9158571145543	Environment	Biological Process	textmining
+saline water	macromolecule metabolic process	5.58403532819424	Environment	Biological Process	textmining
+saline water	inorganic molecular entity transmembrane transporter activity	5.51630020849222	Environment	Molecular Function	textmining
+saline lake	halophilic bacterium	5.58941591539213	Environment	Organism	textmining
+saline water	transmembrane transporter activity	5.74039462785448	Environment	Molecular Function	textmining
+saline water	response to external stimulus	4.82920536686023	Environment	Biological Process	textmining
+saline water	signal transduction	5.15852122072849	Environment	Biological Process	textmining
+saline water	multi-organism process	5.47002544665578	Environment	Biological Process	textmining
+saline evaporation pond	Haloarcula marismortui	4.89021273125997	Environment	Organism	textmining
+saline water	oxidoreductase activity, acting on peroxide as acceptor	5.23280209144359	Environment	Molecular Function	textmining
+saline water	fertilization	5.41216835100637	Environment	Biological Process	textmining
+saline water	response to stimulus	5.90275655501559	Environment	Biological Process	textmining
+hypersaline water	cellular metabolic process	5.20535579196746	Environment	Biological Process	textmining
+saline water	GO:0098772	5.54433994333331	Environment	Molecular Function	textmining
+saline water	hormone activity	5.12505765132041	Environment	Molecular Function	textmining
+saline water	hydrolase activity, acting on ester bonds	5.44979858944451	Environment	Molecular Function	textmining
+saline water	interspecies interaction between organisms	5.13630791661541	Environment	Biological Process	textmining
+saline wetland	catalytic activity	5.4542497842093	Environment	Molecular Function	textmining
+saline water	pyrophosphatase activity	5.36226409873704	Environment	Molecular Function	textmining
+alkaline salt lake	Natranaerobius thermophilus	4.84018212242561	Environment	Organism	textmining
+hypersaline water	binding	5.4145861979665	Environment	Molecular Function	textmining
+saline wetland	cellular process	5.02734009579909	Environment	Biological Process	textmining
+saline water	ion transport	5.31377967734452	Environment	Biological Process	textmining
+saline lake	Halobacterium salinarum	4.88778629112996	Environment	Organism	textmining
+marine salt marsh biome	Pusillimonas maritima	4.93099143454844	Environment	Organism	textmining
+brine	organic substance metabolic process	4.95015347660849	Environment	Biological Process	textmining
+saline water	sodium transmembrane transporter activity, phosphorylative mechanism	5.35897860688052	Environment	Molecular Function	textmining
+saline water	response to abiotic stimulus	5.17994465171109	Environment	Biological Process	textmining
+hypersaline water	Escherichia coli	4.94154235731374	Environment	Organism	textmining
+saline water	reproductive process	5.31233126682251	Environment	Biological Process	textmining
+saline water	regulation of pH	5.64520242503958	Environment	Biological Process	textmining
+brine	cellular metabolic process	5.19082097176815	Environment	Biological Process	textmining
+saline water	Vibrio anguillarum	5.18088235779822	Environment	Organism	textmining
+saline water	amide biosynthetic process	4.8271471862329	Environment	Biological Process	textmining
+saline water	cellular macromolecule biosynthetic process	5.07699191279043	Environment	Biological Process	textmining
+hypersaline water	CO-methylating acetyl-CoA synthase activity	5.23576615610983	Environment	Molecular Function	textmining
+saline water	transmembrane transport	5.24871324815916	Environment	Biological Process	textmining
+saline wetland	binding	5.06032131252027	Environment	Molecular Function	textmining
+saline marsh	catalytic activity	5.45245658154734	Environment	Molecular Function	textmining
+saline water	lyase activity	5.53232740503839	Environment	Molecular Function	textmining
+hypersaline water	transferase activity	5.00918423064965	Environment	Molecular Function	textmining
+saline water	Emiliania huxleyi	4.99610115460935	Environment	Organism	textmining
+saline wetland	molecular_function	5.67637815735492	Environment	Molecular Function	textmining
+saline water	active transmembrane transporter activity	5.3268445615643	Environment	Molecular Function	textmining
+saline marsh	cellular process	5.02584527252362	Environment	Biological Process	textmining
+saline water	phosphate-containing compound metabolic process	5.02206656660774	Environment	Biological Process	textmining
+saline water	cellular macromolecule metabolic process	5.27260768321356	Environment	Biological Process	textmining
+saline water	Vibrio harveyi	5.17170079640635	Environment	Organism	textmining
+saline hydrographic feature	bacterium	4.95588188995833	Environment	Organism	textmining
+saline water	cellular metabolic process	6.04768780033889	Environment	Biological Process	textmining
+saline water	DNA metabolic process	4.84130833313419	Environment	Biological Process	textmining
+saline marsh	biological_process	5.52380546242198	Environment	Biological Process	textmining
+saline water	catalase activity	5.15047497927978	Environment	Molecular Function	textmining
+saline water	transporter activity	5.76814008141832	Environment	Molecular Function	textmining
+saline water	inorganic cation transmembrane transporter activity	5.41205454811914	Environment	Molecular Function	textmining
+saline wetland	metabolic process	5.2480424653219	Environment	Biological Process	textmining
+saline water	macromolecule biosynthetic process	5.10182290445047	Environment	Biological Process	textmining
+saline water	locomotion	4.90175775194748	Environment	Biological Process	textmining
+saline water	receptor regulator activity	5.31489128601077	Environment	Molecular Function	textmining
+saline water	carbon fixation	4.89584477439188	Environment	Biological Process	textmining
+brine	response to stimulus	4.96699141551433	Environment	Biological Process	textmining
+saline water	hydrolase activity, acting on glycosyl bonds	5.26346937427178	Environment	Molecular Function	textmining
+saline water	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	5.36317805280007	Environment	Molecular Function	textmining
+saline water	catalytic activity	6.75747178390307	Environment	Molecular Function	textmining
+saline marsh	organic substance metabolic process	4.82113347394257	Environment	Biological Process	textmining
+saline water	ion transmembrane transporter activity	5.57165022867792	Environment	Molecular Function	textmining
+saline water	Vibrio parahaemolyticus	5.8145079767846	Environment	Organism	textmining
+saline water	organic substance biosynthetic process	5.44386348414181	Environment	Biological Process	textmining
+saline water	molecular_function	6.95115513082825	Environment	Molecular Function	textmining
+saline water	generation of precursor metabolites and energy	5.63121363092474	Environment	Biological Process	textmining
+brine	bacterium	5.5405484330184	Environment	Organism	textmining
+hypersaline water	biosynthetic process	5.62830975135758	Environment	Biological Process	textmining
+saline water	metal ion transmembrane transporter activity	5.10580816844823	Environment	Molecular Function	textmining
+saline water	cellular process	6.3144171393627	Environment	Biological Process	textmining
+saline water	ATPase-coupled transmembrane transporter activity	5.20827474942112	Environment	Molecular Function	textmining
+saline water	nucleoside-triphosphatase activity	5.34842146730609	Environment	Molecular Function	textmining
+saline marsh	molecular_function	5.6751950187557	Environment	Molecular Function	textmining
+saline water	cellular response to stimulus	5.55796163643785	Environment	Biological Process	textmining
+saline water	metamorphosis	4.86458541380422	Environment	Biological Process	textmining
+saline hydrographic feature	biological_process	4.86291176594526	Environment	Biological Process	textmining
+saline water	primary active transmembrane transporter activity	5.21519403794413	Environment	Molecular Function	textmining
+saline water	catabolic process	5.73874660164523	Environment	Biological Process	textmining
+hypersaline water	primary metabolic process	4.83570374278024	Environment	Biological Process	textmining
+brine	transferase activity	4.99475605072333	Environment	Molecular Function	textmining
+brine	oxidation-reduction process	5.09369484715835	Environment	Biological Process	textmining
+saline evaporation pond	archaeon	4.83608542667933	Environment	Organism	textmining
+saline water	monooxygenase activity	4.94015659911574	Environment	Molecular Function	textmining
+saline water	aromatic compound biosynthetic process	4.96823191187936	Environment	Biological Process	textmining
+saline water	potassium ion transmembrane transporter activity	5.05465670460404	Environment	Molecular Function	textmining
+saline water	antioxidant activity	5.82869288944507	Environment	Molecular Function	textmining
+saline water	cation transmembrane transport	4.93288596198898	Environment	Biological Process	textmining
+hypersaline water	nitrogen compound metabolic process	4.81094649951247	Environment	Biological Process	textmining
+saline water	hydro-lyase activity	4.96434913828178	Environment	Molecular Function	textmining
+saline water	digestion	4.80554944488771	Environment	Biological Process	textmining
+saline water	organonitrogen compound metabolic process	5.39602351733267	Environment	Biological Process	textmining
+saline water	cell communication	5.23360350357491	Environment	Biological Process	textmining
+saline water	multicellular organismal process	5.72048491957796	Environment	Biological Process	textmining
+hypersaline water	metabolic process	5.671454203045	Environment	Biological Process	textmining
+brine	metabolic process	5.66168170834706	Environment	Biological Process	textmining
+saline evaporation pond	Salinibacter ruber	6.04195619442042	Environment	Organism	textmining
+saline hydrographic feature	Halobacterium salinarum	4.99956157405469	Environment	Organism	textmining
+saline evaporation pond	halophilic archaeon	6.16737210871561	Environment	Organism	textmining
+saline water	Escherichia coli	5.79901836058389	Environment	Organism	textmining
+hypersaline water	biological_process	5.74104239503902	Environment	Biological Process	textmining
+saline water	water homeostasis	5.38755195056414	Environment	Biological Process	textmining
+saline water	receptor ligand activity	5.31752239837626	Environment	Molecular Function	textmining
+saline water	electron transport chain	5.01089192296675	Environment	Biological Process	textmining
+brine	generation of precursor metabolites and energy	4.87574863254336	Environment	Biological Process	textmining
+saline water	cellular nitrogen compound metabolic process	5.34838121969102	Environment	Biological Process	textmining
+saline water	peptidase activity	5.05122385806321	Environment	Molecular Function	textmining
+saline water	ion transmembrane transport	5.07356625310165	Environment	Biological Process	textmining
+saline water	transferase activity	5.87149600823535	Environment	Molecular Function	textmining
+saline lake	halophilic archaeon	5.62860160583446	Environment	Organism	textmining
+saline water	Entamoeba coli	4.8188618399458	Environment	Organism	textmining
+saline water	bacterium	7.02776676123463	Environment	Organism	textmining
+saline water	regulation of biological quality	5.65909911377769	Environment	Biological Process	textmining
+saline water	regulation of molecular function	5.0986182128057	Environment	Biological Process	textmining
+saline water	cellular nitrogen compound biosynthetic process	5.22893083648251	Environment	Biological Process	textmining
+saline water	heterocycle metabolic process	5.15655707371299	Environment	Biological Process	textmining
+saline water	nucleobase-containing compound metabolic process	5.10135426603362	Environment	Biological Process	textmining
+hypersaline water	organic substance metabolic process	4.96893729920491	Environment	Biological Process	textmining
+hypersaline water	molecular_function	5.90872957880517	Environment	Molecular Function	textmining
+brine	binding	5.41402325105238	Environment	Molecular Function	textmining
+saline water	energy derivation by oxidation of organic compounds	5.32932522126758	Environment	Biological Process	textmining
+saline water	transferase activity, transferring phosphorus-containing groups	5.49988739611301	Environment	Molecular Function	textmining
+saline water	gene expression	5.18996990435157	Environment	Biological Process	textmining
+saline water	metabolic process	6.48455108149802	Environment	Biological Process	textmining
+saline water	hydrolase activity, hydrolyzing O-glycosyl compounds	5.2534828487284	Environment	Molecular Function	textmining
+saline water	photosynthesis	5.53071882995136	Environment	Biological Process	textmining
+saline water	catalytic activity, acting on a protein	5.3186429834017	Environment	Molecular Function	textmining
+hypersaline water	antioxidant activity	5.0411561195763	Environment	Molecular Function	textmining
+saline water	reproduction	5.52468409175544	Environment	Biological Process	textmining
+saline water	organic cyclic compound binding	4.80428628362379	Environment	Molecular Function	textmining
+saline water	catalytic activity, acting on DNA	5.03166373360964	Environment	Molecular Function	textmining
+saline water	signaling receptor activator activity	5.29985944422818	Environment	Molecular Function	textmining
+saline water	structural molecule activity	4.91555725405658	Environment	Molecular Function	textmining
+saline water	homeostatic process	5.67849635802666	Environment	Biological Process	textmining
+saline water	heterocycle biosynthetic process	4.9752936072309	Environment	Biological Process	textmining
+saline water	cellular detoxification	5.28524718509102	Environment	Biological Process	textmining
+saline evaporation pond	Halogeometricum borinquense	4.95489740788895	Environment	Organism	textmining
+saline water	secretion	4.80678220787197	Environment	Biological Process	textmining
+hypersaline water	oxidation-reduction process	5.10514351117464	Environment	Biological Process	textmining
+hypersaline water	catalytic activity	5.74278761594808	Environment	Molecular Function	textmining
+saline water	Thalassiosira pseudonana	4.9249416260967	Environment	Organism	textmining
+saline water	hydrolase activity	6.16970129378888	Environment	Molecular Function	textmining
+hypersaline water	bacterium	5.56345370549622	Environment	Organism	textmining
+saline water	inorganic ion transmembrane transport	4.97794284055658	Environment	Biological Process	textmining
+saline water	localization	6.03427722969754	Environment	Biological Process	textmining
+saline water	establishment of localization	6.01610880172134	Environment	Biological Process	textmining
+saline water	developmental process	5.51480649480395	Environment	Biological Process	textmining
+hypersaline water	response to stimulus	4.98042275878672	Environment	Biological Process	textmining
+saline water	binding	6.23093647055433	Environment	Molecular Function	textmining
+saline wetland	biological_process	5.52825645114664	Environment	Biological Process	textmining
+brine	biosynthetic process	5.62582390037907	Environment	Biological Process	textmining
+saline water	cellular amide metabolic process	4.84481572405568	Environment	Biological Process	textmining
+saline water	monovalent inorganic cation transport	4.9641440177616	Environment	Biological Process	textmining
+saline water	Vibrio vulnificus	5.78952775798085	Environment	Organism	textmining
+saline water	kinase activity	5.11505921575705	Environment	Molecular Function	textmining
+saline water	organic cyclic compound metabolic process	5.20805211716367	Environment	Biological Process	textmining
+saline water	nucleobase-containing compound biosynthetic process	4.89616377552694	Environment	Biological Process	textmining
+saline water	fermentation	5.04251470923896	Environment	Biological Process	textmining
+saline water	molecular transducer activity	5.0427920290019	Environment	Molecular Function	textmining
+brine	primary metabolic process	4.81920582886025	Environment	Biological Process	textmining
+brine	biological_process	5.72733900351716	Environment	Biological Process	textmining
+saline water	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	4.91466095151291	Environment	Molecular Function	textmining
+saline water	regulation of biological process	5.38539780068662	Environment	Biological Process	textmining
+saline water	multi-organism reproductive process	5.28158436315339	Environment	Biological Process	textmining
+saline water	nitrogen compound metabolic process	5.61234232623711	Environment	Biological Process	textmining
+saline water	signaling	5.29912234951122	Environment	Biological Process	textmining
+saline hydrographic feature	halophilic bacterium	5.69131995024345	Environment	Organism	textmining
+saline water	cellular protein metabolic process	4.93052595194156	Environment	Biological Process	textmining
+saline water	ion homeostasis	5.64608158124297	Environment	Biological Process	textmining
+saline water	carbon-oxygen lyase activity	5.05595962527516	Environment	Molecular Function	textmining
+saline water	sexual reproduction	5.45410712220085	Environment	Biological Process	textmining
+saline hydrographic feature	Salinibacter ruber	5.55903481576286	Environment	Organism	textmining
+saline water	peroxidase activity	5.21274887798475	Environment	Molecular Function	textmining
+saline marsh	cellular metabolic process	4.91494176440709	Environment	Biological Process	textmining
+saline water	sodium:potassium-exchanging ATPase activity	5.35714612435432	Environment	Molecular Function	textmining
+hypersaline water	generation of precursor metabolites and energy	4.89042367584114	Environment	Biological Process	textmining
+saline water	cellular biosynthetic process	5.40669938731735	Environment	Biological Process	textmining
+saline hydrographic feature	Hortaea werneckii	5.15156333420081	Environment	Organism	textmining
+saline hydrographic feature	halophilic archaeon	5.72416945367596	Environment	Organism	textmining
+saline water	signaling receptor activity	4.86316211571998	Environment	Molecular Function	textmining
+saline water	organic substance metabolic process	5.81843141281832	Environment	Biological Process	textmining
+saline water	hyperosmotic response	4.89248410814192	Environment	Biological Process	textmining
+brine	growth	5.10247251829291	Environment	Biological Process	textmining
+saline water	cellular oxidant detoxification	5.28418560383974	Environment	Biological Process	textmining
+saline water	detoxification	5.38941249766217	Environment	Biological Process	textmining
+saline water	hyperosmotic salinity response	4.88425178905025	Environment	Biological Process	textmining
+saline wetland	hydrolase activity	4.85335559856704	Environment	Molecular Function	textmining
+saline water	structural constituent of ribosome	4.944536987165	Environment	Molecular Function	textmining
+saline water	oxidoreductase activity, acting on superoxide radicals as acceptor	4.80306692923543	Environment	Molecular Function	textmining
+brine	Escherichia coli	4.93435822891099	Environment	Organism	textmining
+saline evaporation pond	Dunaliella salina	5.01379885885963	Environment	Organism	textmining
+saline water	chemical homeostasis	5.83111521844149	Environment	Biological Process	textmining
+saline water	Actinobacteria bacterium	5.19508794314063	Environment	Organism	textmining
+brine	catalytic activity	5.72886112407349	Environment	Molecular Function	textmining
+saline water	channel activity	5.11213775931852	Environment	Molecular Function	textmining
+saline evaporation pond	Hortaea werneckii	5.58310121457316	Environment	Organism	textmining
+saline marsh	hydrolase activity	4.8522069579095	Environment	Molecular Function	textmining
+saline water	Vibrio cholerae	5.40001696072171	Environment	Organism	textmining
+saline water	cation homeostasis	5.60604254926019	Environment	Biological Process	textmining
+saline water	inorganic ion homeostasis	5.63205871708468	Environment	Biological Process	textmining
+saline water	organism emergence from protective structure	5.35343589681579	Environment	Biological Process	textmining
+saline water	carboxy-lyase activity	4.83943353743947	Environment	Molecular Function	textmining
+saline water	cellular response to toxic substance	5.28524718509102	Environment	Biological Process	textmining
+saline evaporation pond	bacterium	5.07459608609978	Environment	Organism	textmining
+solonchak	Halomonas chromatireducens	5.43320192796537	Environment	Organism	textmining
+saline water	signaling receptor binding	5.43190686835335	Environment	Molecular Function	textmining
+saline water	ATPase activity	5.38181866052922	Environment	Molecular Function	textmining
+saline water	phosphorylation	4.85209922309754	Environment	Biological Process	textmining
+saline marsh	metabolic process	5.24589802511209	Environment	Biological Process	textmining
+saline water	hydrolase activity, acting on acid anhydrides	5.36315340091047	Environment	Molecular Function	textmining
+saline water	primary metabolic process	5.60355861374462	Environment	Biological Process	textmining
+saline water	anatomical structure development	5.44958571503985	Environment	Biological Process	textmining
+saline water	active ion transmembrane transporter activity	5.26438536397274	Environment	Molecular Function	textmining
+saline hydrographic feature	Haloquadratum walsbyi	5.58994843325397	Environment	Organism	textmining
+alkaline salt lake	bacterium	5.03278733746929	Environment	Organism	textmining
+hypersaline water	biological regulation	4.80486995874635	Environment	Biological Process	textmining
+brine	CO-methylating acetyl-CoA synthase activity	5.24898084711091	Environment	Molecular Function	textmining
+saline water	regulation of cellular process	5.32865477165767	Environment	Biological Process	textmining
+saline water	ATPase-coupled cation transmembrane transporter activity	5.26552280923559	Environment	Molecular Function	textmining
+saline water	sulfate reduction	4.81028523926758	Environment	Biological Process	textmining
+brine	antioxidant activity	5.04106227710471	Environment	Molecular Function	textmining
+alkaline salt lake	Alkalimonas amylolytica	4.82919520531652	Environment	Organism	textmining
+hypersaline water	acetate-CoA ligase activity	5.13827917846005	Environment	Molecular Function	textmining
+saline water	cation transmembrane transporter activity	5.41509658437101	Environment	Molecular Function	textmining
+saline evaporation pond	Trimmatostroma salinum	4.89955213846436	Environment	Organism	textmining
+saline evaporation pond	Haloarcula hispanica	4.89046018586095	Environment	Organism	textmining
+hypersaline water	Lactobacillus pentosus	4.98414549949594	Environment	Organism	textmining
+saline water	Staphylococcus aureus	4.85589681728497	Environment	Organism	textmining
+saline water	nucleotidyltransferase activity	5.06689784694394	Environment	Molecular Function	textmining
+saline water	Isochrysis galbana	5.21015575200319	Environment	Organism	textmining
+saline water	multicellular organism development	5.25095273249433	Environment	Biological Process	textmining
+saline lake sediment	Methanocalculus natronophilus	4.86492987459588	Environment	Organism	textmining
+saline wetland	growth	4.80197221124617	Environment	Biological Process	textmining
+saline water	inorganic cation transmembrane transport	4.92713766010785	Environment	Biological Process	textmining
+alkaline salt lake	Pelagirhabdus fermentum	4.88198325220014	Environment	Organism	textmining
+saline wetland	organic substance metabolic process	4.82144734561017	Environment	Biological Process	textmining
+saline evaporation pond	Haloquadratum walsbyi	6.08540283721155	Environment	Organism	textmining
+saline water	Phaeodactylum tricornutum	5.31760473400564	Environment	Organism	textmining
+saline lake sediment	Candidatus Contubernalis alkalaceticum	5.15545287053291	Environment	Organism	textmining
+saline water	monovalent inorganic cation homeostasis	5.6464239365669	Environment	Biological Process	textmining
+brine	molecular_function	5.89581100033104	Environment	Molecular Function	textmining
+alkaline salt lake	Desulfurivibrio alkaliphilus	5.09454163364994	Environment	Organism	textmining
+saline lake	bacterium	5.45763037224636	Environment	Organism	textmining
+saline water	ATPase-coupled ion transmembrane transporter activity	5.28534453759728	Environment	Molecular Function	textmining
+saline water	protein metabolic process	5.20080029126393	Environment	Biological Process	textmining
+saline water	Vibrio alginolyticus	5.45118879987352	Environment	Organism	textmining
+hypersaline water	growth	5.12629705363965	Environment	Biological Process	textmining
+saline water	ion channel activity	4.90467558848193	Environment	Molecular Function	textmining
+saline evaporation pond	halophilic bacterium	6.10953889425781	Environment	Organism	textmining
+saline evaporation pond	Haloferax volcanii	5.03251567622544	Environment	Organism	textmining
+brine	acetate-CoA ligase activity	5.14983696539011	Environment	Molecular Function	textmining
+brine	oxidoreductase activity	5.19076024279092	Environment	Molecular Function	textmining
+saline water	oxidoreductase activity	6.30477413900219	Environment	Molecular Function	textmining
+alkaline salt lake	Desulfonatronum lacustre	5.04674275931474	Environment	Organism	textmining
+saline hydrographic feature	digalactosyldiacylglycerol synthase activity	5.35439264169711	Environment	Molecular Function	textmining
+saline water	potassium transmembrane transporter activity, phosphorylative mechanism	5.32194437534264	Environment	Molecular Function	textmining
+saline evaporation pond	Natronomonas pharaonis	4.87407296583182	Environment	Organism	textmining
+saline evaporation pond	Haloferax mediterranei	4.86410123058574	Environment	Organism	textmining
+saline water	hatching	5.3980136618419	Environment	Biological Process	textmining
+saline wetland	bacterium	4.9727861646559	Environment	Organism	textmining
+saline water	biological regulation	5.83847152992906	Environment	Biological Process	textmining
+alkaline salt lake	Amphibacillus tropicus	5.00336563017396	Environment	Organism	textmining
+saline water	organic substance catabolic process	4.80920498624129	Environment	Biological Process	textmining
+saline water	nucleic acid metabolic process	4.94377776591097	Environment	Biological Process	textmining
+saline marsh	binding	5.05957960481418	Environment	Molecular Function	textmining
+saline water	sulfur compound metabolic process	5.07733507413027	Environment	Biological Process	textmining
+saline water	monovalent inorganic cation transmembrane transporter activity	5.43630007600959	Environment	Molecular Function	textmining
+brine	Lactobacillus pentosus	4.99895397301619	Environment	Organism	textmining
+saline water	behavior	5.61232297694542	Environment	Biological Process	textmining
+saline water	phosphorus metabolic process	5.0270216187735	Environment	Biological Process	textmining
+saline water	cellular response to chemical stimulus	5.26786768429382	Environment	Biological Process	textmining
+saline water	biosynthetic process	5.98698757611642	Environment	Biological Process	textmining
+saline lake sediment	Desulfurivibrio alkaliphilus	4.87230395149153	Environment	Organism	textmining
+brine	hydrolase activity	5.1706880073613	Environment	Molecular Function	textmining
+saline evaporation pond	Haloplanus vescus	4.92488400471942	Environment	Organism	textmining
+saline lake sediment	Marivirga tractuosa DSM 4126	4	Environment	Organism	experiments
+saline lake sediment	Anaerofustis stercorihominis DSM 17244	4	Environment	Organism	experiments
+saline lake sediment	Desulfococcus oleovorans Hxd3	4	Environment	Organism	experiments
+saline lake sediment	Geobacter metallireducens GS-15	4	Environment	Organism	experiments
+saline lake sediment	Thiohalocapsa halophila	4	Environment	Organism	experiments
+saline lake sediment	Coprobacillus cateniformis	4	Environment	Organism	experiments
+saline lake sediment	Staphylococcus aureus subsp. aureus TCH130	4	Environment	Organism	experiments
+saline lake sediment	Rhodopirellula baltica SH 1	4	Environment	Organism	experiments
+saline lake sediment	Desulfobacterium autotrophicum HRM2	4	Environment	Organism	experiments
+saline lake sediment	Nitrospira defluvii	4	Environment	Organism	experiments
+saline lake sediment	Desulfarculus baarsii DSM 2075	4	Environment	Organism	experiments
+saline lake sediment	Thermomicrobium roseum DSM 5159	4	Environment	Organism	experiments
+saline lake sediment	Halobaculum gomorrense	4	Environment	Organism	experiments
+saline lake sediment	[Ruminococcus] torques ATCC 27756	4	Environment	Organism	experiments
+saline lake sediment	Chloroflexus aggregans DSM 9485	4	Environment	Organism	experiments
+saline lake sediment	Pseudoflavonifractor capillosus ATCC 29799	4	Environment	Organism	experiments
+saline lake sediment	Rhodoferax ferrireducens T118	4	Environment	Organism	experiments
+saline lake sediment	Chlorobium phaeobacteroides BS1	4	Environment	Organism	experiments
+saline lake sediment	Caldanaerobacter subterraneus subsp. pacificus DSM 12653	4	Environment	Organism	experiments
+saline lake sediment	Burkholderia multivorans ATCC 17616	4	Environment	Organism	experiments
+saline lake sediment	Hyphomonas neptunium	4	Environment	Organism	experiments
+saline lake sediment	Thermoanaerobacterium xylanolyticum LX-11	4	Environment	Organism	experiments
+saline lake sediment	Erythrobacter sp. NAP1	4	Environment	Organism	experiments
+saline lake sediment	Dethiobacter alkaliphilus AHT 1	4	Environment	Organism	experiments
+saline lake sediment	Desulfobulbus propionicus DSM 2032	4	Environment	Organism	experiments
+saline lake sediment	Allochromatium vinosum DSM 180	4	Environment	Organism	experiments
+saline lake sediment	Azospirillum sp. B510	4	Environment	Organism	experiments
+saline lake sediment	Desulfurispirillum indicum S5	4	Environment	Organism	experiments
+saline lake sediment	Treponema denticola	4	Environment	Organism	experiments
+saline lake sediment	Beggiatoa sp. PS	4	Environment	Organism	experiments
+saline lake sediment	Actinosynnema mirum DSM 43827	4	Environment	Organism	experiments
+saline lake sediment	Chryseobacterium gleum ATCC 35910	4	Environment	Organism	experiments
+saline lake sediment	Hespellia stercorisuis	4	Environment	Organism	experiments
+saline lake sediment	Stackebrandtia nassauensis DSM 44728	4	Environment	Organism	experiments
+saline lake sediment	Pyrococcus horikoshii	4	Environment	Organism	experiments
+saline lake sediment	Paenibacillus sp. Y412MC10	4	Environment	Organism	experiments
+saline lake sediment	Pseudomonas fluorescens	4	Environment	Organism	experiments
+saline lake sediment	Oceanicaulis sp. HTCC2633	4	Environment	Organism	experiments
+saline lake sediment	Desulfofarcimen acetoxidans DSM 771	4	Environment	Organism	experiments
+saline lake sediment	Methanospirillum hungatei JF-1	4	Environment	Organism	experiments
+saline lake sediment	Porphyromonas canoris	4	Environment	Organism	experiments
+saline lake sediment	Parachlamydia acanthamoebae str. Hall's coccus	4	Environment	Organism	experiments
+saline lake sediment	Haliangium ochraceum DSM 14365	4	Environment	Organism	experiments
+saline lake sediment	Haloferax volcanii DS2	4	Environment	Organism	experiments
+saline lake sediment	Pseudopedobacter saltans DSM 12145	4	Environment	Organism	experiments
+saline lake sediment	Treponema sp.	4	Environment	Organism	experiments
+saline lake sediment	Heliobacterium modesticaldum Ice1	4	Environment	Organism	experiments
+saline lake sediment	Natronomonas pharaonis	4	Environment	Organism	experiments
+saline lake sediment	Roseivivax halodurans	4	Environment	Organism	experiments
+saline lake sediment	Natronomonas pharaonis DSM 2160	4	Environment	Organism	experiments
+saline lake sediment	Rhodothermus marinus DSM 4252	4	Environment	Organism	experiments
+saline lake sediment	Pseudovibrio sp. JE062	4	Environment	Organism	experiments
+saline lake sediment	Halogeometricum borinquense DSM 11551	4	Environment	Organism	experiments
+saline lake sediment	Moorella thermoacetica ATCC 39073	4	Environment	Organism	experiments
+saline lake sediment	Rhodomicrobium vannielii ATCC 17100	4	Environment	Organism	experiments
+saline lake sediment	Clostridium botulinum NCTC 2916	4	Environment	Organism	experiments
+saline lake sediment	Desulfovibrio salexigens DSM 2638	4	Environment	Organism	experiments
+saline lake sediment	uncultured Methylophaga sp.	4	Environment	Organism	experiments
+saline lake sediment	Salinibacter ruber DSM 13855	4	Environment	Organism	experiments
+saline lake sediment	Gemmata obscuriglobus UQM 2246	4	Environment	Organism	experiments
+saline lake sediment	Beggiatoa sp. SS	4	Environment	Organism	experiments
+saline lake sediment	Alkaliphilus metalliredigens QYMF	4	Environment	Organism	experiments
+saline lake sediment	Desulfotalea psychrophila LSv54	4	Environment	Organism	experiments
+saline lake sediment	Dyadobacter fermentans DSM 18053	4	Environment	Organism	experiments
+saline lake sediment	Acidobacterium sp.	4	Environment	Organism	experiments
+saline lake sediment	Methylocella silvestris BL2	4	Environment	Organism	experiments
+saline lake sediment	Corynebacterium capitovis	4	Environment	Organism	experiments
+saline lake sediment	Nesterenkonia sp. AN1	4	Environment	Organism	experiments
+saline lake sediment	Desulfonema limicola	4	Environment	Organism	experiments
+saline lake sediment	Beutenbergia cavernae DSM 12333	4	Environment	Organism	experiments
+saline lake sediment	Brevundimonas subvibrioides ATCC 15264	4	Environment	Organism	experiments
+saline lake sediment	Thermomonospora curvata DSM 43183	4	Environment	Organism	experiments
+saline lake sediment	Symbiobacterium thermophilum	4	Environment	Organism	experiments
+saline lake sediment	Mucilaginibacter paludis DSM 18603	4	Environment	Organism	experiments
+saline lake sediment	Geobacter sp. M18	4	Environment	Organism	experiments
+saline lake sediment	Ornithobacterium rhinotracheale	4	Environment	Organism	experiments
+saline lake sediment	Acidobacterium capsulatum ATCC 51196	4	Environment	Organism	experiments
+saline lake sediment	Pelobacter carbinolicus DSM 2380	4	Environment	Organism	experiments
+saline lake sediment	Algoriphagus machipongonensis	4	Environment	Organism	experiments
+saline lake sediment	Citreicella sp. SE45	4	Environment	Organism	experiments
+saline lake sediment	Porphyromonas circumdentaria	4	Environment	Organism	experiments
+saline lake sediment	Kribbella flavida DSM 17836	4	Environment	Organism	experiments
+saline lake sediment	Coxiella burnetii	4	Environment	Organism	experiments
+saline lake sediment	Paenibacillus naphthalenovorans	4	Environment	Organism	experiments
+saline lake sediment	Spirochaeta aurantia	4	Environment	Organism	experiments
+saline lake sediment	Hungateiclostridium cellulolyticum CD2	4	Environment	Organism	experiments
+saline lake sediment	Pseudoramibacter alactolyticus ATCC 23263	4	Environment	Organism	experiments
+saline lake sediment	Streptomyces sp. e14	4	Environment	Organism	experiments
+saline lake sediment	Geobacter daltonii FRC-32	4	Environment	Organism	experiments
+saline lake sediment	Geobacter sp. M21	4	Environment	Organism	experiments
+saline lake sediment	Deferribacter desulfuricans SSM1	4	Environment	Organism	experiments
+saline lake sediment	Azoarcus olearius	4	Environment	Organism	experiments
+saline lake sediment	Pedobacter heparinus DSM 2366	4	Environment	Organism	experiments
+saline lake sediment	Acetomicrobium hydrogeniformans ATCC BAA-1850	4	Environment	Organism	experiments
+saline lake sediment	Akkermansia muciniphila ATCC BAA-835	4	Environment	Organism	experiments
+saline lake sediment	Saccharopolyspora rectivirgula	4	Environment	Organism	experiments
+saline lake sediment	Blastopirellula marina DSM 3645	4	Environment	Organism	experiments
+saline lake sediment	Paenibacillus curdlanolyticus YK9	4	Environment	Organism	experiments
+saline lake sediment	Aurantimonas manganoxydans SI85-9A1	4	Environment	Organism	experiments
+saline lake sediment	Desulfovibrio indonesiensis	4	Environment	Organism	experiments
+saline lake sediment	Rhodospirillum rubrum ATCC 11170	4	Environment	Organism	experiments
+saline lake sediment	Porphyromonas gingivalis	4	Environment	Organism	experiments
+saline lake sediment	Desulfovibrio magneticus RS-1	4	Environment	Organism	experiments
+saline lake sediment	Stigmatella aurantiaca DW4/3-1	4	Environment	Organism	experiments
+saline lake sediment	Methanosarcina barkeri str. Fusaro	4	Environment	Organism	experiments
+saline lake sediment	Actinomyces gerencseriae	4	Environment	Organism	experiments
+saline lake sediment	Rhodospirillum centenum SW	4	Environment	Organism	experiments
+saline lake sediment	Oceanithermus profundus DSM 14977	4	Environment	Organism	experiments
+saline lake sediment	Rubrobacter xylanophilus	4	Environment	Organism	experiments
+saline lake sediment	Methylococcus capsulatus str. Bath	4	Environment	Organism	experiments
+saline lake sediment	Plesiocystis pacifica SIR-1	4	Environment	Organism	experiments
+saline lake sediment	Hungateiclostridium thermocellum JW20	4	Environment	Organism	experiments
+saline lake sediment	Microscilla marina	4	Environment	Organism	experiments
+saline lake sediment	Syntrophobacter fumaroxidans MPOB	4	Environment	Organism	experiments
+saline lake sediment	Aquifex aeolicus VF5	4	Environment	Organism	experiments
+saline lake sediment	Marinoscillum furvescens	4	Environment	Organism	experiments
+saline lake sediment	Eisenibacter elegans	4	Environment	Organism	experiments
+saline lake sediment	Escherichia coli MS 200-1	4	Environment	Organism	experiments
+saline lake sediment	Pseudothermotoga lettingae TMO	4	Environment	Organism	experiments
+saline lake sediment	Megamonas hypermegale	4	Environment	Organism	experiments
+saline lake sediment	Gemmatimonas aurantiaca T-27	4	Environment	Organism	experiments
+saline lake sediment	Curvibacter putative symbiont of Hydra magnipapillata	4	Environment	Organism	experiments
+saline lake sediment	Desulfotomaculum nigrificans DSM 574	4	Environment	Organism	experiments
+saline lake sediment	Eubacterium ventriosum ATCC 27560	4	Environment	Organism	experiments
+saline lake sediment	Nocardioides sp. JS614	4	Environment	Organism	experiments
+saline lake sediment	Hahella chejuensis KCTC 2396	4	Environment	Organism	experiments
+saline lake sediment	Rhodopirellula sp. SM48	4	Environment	Organism	experiments
+saline lake sediment	Micromonospora sp. ATCC 39149	4	Environment	Organism	experiments
+saline lake sediment	Blautia obeum ATCC 29174	4	Environment	Organism	experiments
+saline lake sediment	Halomonas elongata DSM 2581	4	Environment	Organism	experiments
+saline lake sediment	Alkaliphilus transvaalensis	4	Environment	Organism	experiments
+saline lake sediment	Veillonella dispar	4	Environment	Organism	experiments
+saline lake sediment	Xylanimonas cellulosilytica DSM 15894	4	Environment	Organism	experiments
+saline lake sediment	Vibrio coralliilyticus ATCC BAA-450	4	Environment	Organism	experiments
+saline lake sediment	Hirschia baltica ATCC 49814	4	Environment	Organism	experiments
+saline lake sediment	Actinomyces sp. oral taxon 848 str. F0332	4	Environment	Organism	experiments
+saline lake sediment	Isosphaera pallida	4	Environment	Organism	experiments
+saline lake sediment	Candidatus Arthromitus sp. SFB-mouse	4	Environment	Organism	experiments
+saline lake sediment	Halothermothrix orenii H 168	4	Environment	Organism	experiments
+saline lake sediment	Fibrobacter succinogenes subsp. succinogenes S85	4	Environment	Organism	experiments
+saline lake sediment	Frankia sp. EAN1pec	4	Environment	Organism	experiments
+saline lake sediment	Spirochaeta thermophila	4	Environment	Organism	experiments
+saline lake sediment	Methanocella paludicola SANAE	4	Environment	Organism	experiments
+saline lake sediment	Streptomyces sp. SPB78	4	Environment	Organism	experiments
+saline lake sediment	Streptomyces himastatinicus ATCC 53653	4	Environment	Organism	experiments
+saline lake sediment	Rubinisphaera brasiliensis DSM 5305	4	Environment	Organism	experiments
+saline lake sediment	Kytococcus sedentarius DSM 20547	4	Environment	Organism	experiments
+saline lake sediment	Haloterrigena turkmenica DSM 5511	4	Environment	Organism	experiments
+saline lake sediment	Chloroherpeton thalassium ATCC 35110	4	Environment	Organism	experiments
+saline lake sediment	Herpetosiphon aurantiacus DSM 785	4	Environment	Organism	experiments
+saline lake sediment	Desulfurivibrio alkaliphilus AHT 2	4	Environment	Organism	experiments
+saline lake sediment	Methanobrevibacter smithii	4	Environment	Organism	experiments
+saline lake sediment	Arhodomonas aquaeolei	4	Environment	Organism	experiments
+saline lake sediment	Salinibacter ruber M8	4	Environment	Organism	experiments
+saline lake sediment	Halococcus hamelinensis	4	Environment	Organism	experiments
+saline lake sediment	Ferroglobus placidus DSM 10642	4	Environment	Organism	experiments
+saline lake sediment	Candidatus Portiera aleyrodidarum	4	Environment	Organism	experiments
+saline lake sediment	Sorangium cellulosum	4	Environment	Organism	experiments
+saline lake sediment	Finegoldia magna ATCC 53516	4	Environment	Organism	experiments
+saline lake sediment	Roseiflexus castenholzii DSM 13941	4	Environment	Organism	experiments
+saline lake sediment	Methylobacterium sp. 4-46	4	Environment	Organism	experiments
+saline lake sediment	Bartonella bacilliformis	4	Environment	Organism	experiments
+saline lake sediment	Flexithrix dorotheae	4	Environment	Organism	experiments
+saline lake sediment	Sediminispirochaeta smaragdinae DSM 11293	4	Environment	Organism	experiments
+saline lake sediment	Azospirillum brasilense	4	Environment	Organism	experiments
+saline lake sediment	Thermus aquaticus Y51MC23	4	Environment	Organism	experiments
+saline lake sediment	Coprothermobacter proteolyticus DSM 5265	4	Environment	Organism	experiments
+saline lake sediment	Leptospirillum ferrooxidans	4	Environment	Organism	experiments
+saline lake sediment	Natrialba magadii ATCC 43099	4	Environment	Organism	experiments
+saline lake sediment	Thermosediminibacter oceani DSM 16646	4	Environment	Organism	experiments
+saline lake sediment	Thermincola potens JR	4	Environment	Organism	experiments
+saline lake sediment	Variovorax paradoxus EPS	4	Environment	Organism	experiments
+saline lake sediment	Rhodovibrio salinarum	4	Environment	Organism	experiments
+saline lake sediment	Alkaliphilus oremlandii OhILAs	4	Environment	Organism	experiments
+saline lake sediment	Chlorobaculum parvum	4	Environment	Organism	experiments
+saline lake sediment	[Clostridium] paradoxum	4	Environment	Organism	experiments
+saline lake sediment	Azorhizobium caulinodans ORS 571	4	Environment	Organism	experiments
+saline lake sediment	Oscillochloris trichoides DG-6	4	Environment	Organism	experiments
+saline lake sediment	Haloplanus natans	4	Environment	Organism	experiments
+saline lake sediment	Thermodesulfovibrio yellowstonii DSM 11347	4	Environment	Organism	experiments
+saline lake sediment	Desulfovibrio vulgaris str. 'Miyazaki F'	4	Environment	Organism	experiments
+saline lake sediment	Methanothrix thermoacetophila PT	4	Environment	Organism	experiments
+saline lake sediment	Parvularcula bermudensis HTCC2503	4	Environment	Organism	experiments
+saline lake sediment	Coenonia anatina	4	Environment	Organism	experiments
+saline lake sediment	Pseudogulbenkiania ferrooxidans 2002	4	Environment	Organism	experiments
+saline lake sediment	Aminomonas paucivorans DSM 12260	4	Environment	Organism	experiments
+saline lake sediment	Desulfatibacillum alkenivorans AK-01	4	Environment	Organism	experiments
+saline lake sediment	Roseiflexus sp. RS-1	4	Environment	Organism	experiments
+saline lake sediment	Haladaptatus paucihalophilus DX253	4	Environment	Organism	experiments
+saline lake sediment	Kineococcus radiotolerans SRS30216 = ATCC BAA-149	4	Environment	Organism	experiments
+saline lake sediment	Halogranum rubrum	4	Environment	Organism	experiments
+saline lake sediment	Pelodictyon phaeoclathratiforme BU-1	4	Environment	Organism	experiments
+saline lake sediment	Hungatella hathewayi DSM 13479	4	Environment	Organism	experiments
+saline lake sediment	Nitrosococcus oceani	4	Environment	Organism	experiments
+saline lake sediment	Methanosarcina acetivorans C2A	4	Environment	Organism	experiments
+saline lake sediment	Desulfuromonas acetoxidans	4	Environment	Organism	experiments
+saline lake sediment	Symbiobacterium thermophilum IAM 14863	4	Environment	Organism	experiments
+saline lake sediment	Geobacter lovleyi SZ	4	Environment	Organism	experiments
+saline lake sediment	Mariprofundus ferrooxydans PV-1	4	Environment	Organism	experiments
+saline lake sediment	Pseudoalteromonas tetraodonis	4	Environment	Organism	experiments
+saline lake sediment	Natronobacterium gregoryi	4	Environment	Organism	experiments
+saline lake sediment	Marinobacter sp. ELB17	4	Environment	Organism	experiments
+saline lake sediment	Kordia algicida OT-1	4	Environment	Organism	experiments
+saline lake sediment	Denitrovibrio acetiphilus DSM 12809	4	Environment	Organism	experiments
+saline lake sediment	Desulfovibrio ferrophilus	4	Environment	Organism	experiments
+saline lake sediment	Halopiger xanaduensis	4	Environment	Organism	experiments
+saline lake sediment	Halothiobacillus neapolitanus c2	4	Environment	Organism	experiments
+saline lake sediment	Meiothermus silvanus DSM 9946	4	Environment	Organism	experiments
+saline lake sediment	Holospora obtusa	4	Environment	Organism	experiments
+saline lake sediment	Rhodovulum imhoffii	4	Environment	Organism	experiments
+saline lake sediment	Meiothermus ruber DSM 1279	4	Environment	Organism	experiments
+saline lake sediment	Bergeyella zoohelcum	4	Environment	Organism	experiments
+saline lake sediment	Thermaerobacter subterraneus DSM 13965	4	Environment	Organism	experiments
+saline lake sediment	Bradyrhizobium diazoefficiens USDA 110	4	Environment	Organism	experiments
+saline lake sediment	Methylophaga thiooxydans DMS010	4	Environment	Organism	experiments
+saline lake sediment	Maricaulis maris MCS10	4	Environment	Organism	experiments
+saline lake sediment	Ahrensia sp. R2A130	4	Environment	Organism	experiments
+saline lake sediment	Desulfonema ishimotonii	4	Environment	Organism	experiments
+saline lake sediment	Streptomyces griseoflavus Tu4000	4	Environment	Organism	experiments
+saline lake sediment	Phascolarctobacterium succinatutens YIT 12067	4	Environment	Organism	experiments
+saline lake sediment	Thermosinus carboxydivorans Nor1	4	Environment	Organism	experiments
+saline lake sediment	Pirellula staleyi DSM 6068	4	Environment	Organism	experiments
+saline lake sediment	Marinilabilia salmonicolor	4	Environment	Organism	experiments
+saline lake sediment	Cytophaga sp.	4	Environment	Organism	experiments
+saline lake sediment	Zunongwangia profunda SM-A87	4	Environment	Organism	experiments
+saline lake sediment	Conexibacter woesei DSM 14684	4	Environment	Organism	experiments
+saline lake sediment	Riemerella anatipestifer RA-YM	4	Environment	Organism	experiments
+saline lake sediment	Saprospira sp. SS98-5	4	Environment	Organism	experiments
+saline lake sediment	Coraliomargarita akajimensis DSM 45221	4	Environment	Organism	experiments
+saline lake sediment	Afifella pfennigii	4	Environment	Organism	experiments
+saline lake sediment	Microscilla marina ATCC 23134	4	Environment	Organism	experiments
+saline lake sediment	Maribacter sp. HTCC2170	4	Environment	Organism	experiments
+saline lake sediment	Thioalkalivibrio sp. K90mix	4	Environment	Organism	experiments
+saline lake sediment	Verrucomicrobium spinosum DSM 4136 = JCM 18804	4	Environment	Organism	experiments
+saline lake sediment	Rhodobacter sphaeroides	4	Environment	Organism	experiments
+saline lake sediment	Desulfomicrobium baculatum DSM 4028	4	Environment	Organism	experiments
+saline lake sediment	Haladaptatus paucihalophilus	4	Environment	Organism	experiments
+saline lake sediment	Fulvimarina pelagi HTCC2506	4	Environment	Organism	experiments
+saline lake sediment	Listeria grayi DSM 20601	4	Environment	Organism	experiments
+saline lake sediment	Labrenzia aggregata IAM 12614	4	Environment	Organism	experiments
+saline lake sediment	Thermoanaerobacter ethanolicus	4	Environment	Organism	experiments
+saline lake sediment	Rothia dentocariosa	4	Environment	Organism	experiments
+saline lake sediment	Desulfuromonas acetoxidans DSM 684	4	Environment	Organism	experiments
+saline lake sediment	Spirosoma linguale DSM 74	4	Environment	Organism	experiments
+saline lake sediment	Thermanaerovibrio acidaminovorans DSM 6589	4	Environment	Organism	experiments
+saline lake sediment	Paenibacillus sp. oral taxon 786 str. D14	4	Environment	Organism	experiments
+saline lake sediment	Halorhabdus utahensis DSM 12940	4	Environment	Organism	experiments
+saline lake sediment	Roseiflexus castenholzii	4	Environment	Organism	experiments
+saline lake sediment	Hyphomonas neptunium ATCC 15444	4	Environment	Organism	experiments
+saline lake sediment	Rhodopirellula sp. SM50	4	Environment	Organism	experiments
+saline lake sediment	Myxococcus xanthus DK 1622	4	Environment	Organism	experiments
+saline lake sediment	Desulfovibrio desulfuricans ND132	4	Environment	Organism	experiments
+saline lake sediment	Paludibacter propionicigenes WB4	4	Environment	Organism	experiments
+saline lake sediment	Treponema saccharophilum	4	Environment	Organism	experiments
+saline lake sediment	Brucella suis bv. 4 str. 40	4	Environment	Organism	experiments
+saline lake sediment	Saccharopolyspora erythraea NRRL 2338	4	Environment	Organism	experiments
+saline lake sediment	Porphyromonas cangingivalis	4	Environment	Organism	experiments
+saline lake sediment	Desulfovibrio fructosivorans JJ	4	Environment	Organism	experiments
+saline lake sediment	Desulfovibrio alaskensis G20	4	Environment	Organism	experiments
+saline lake sediment	Planctopirus limnophila DSM 3776	4	Environment	Organism	experiments
+saline lake sediment	Roseomonas cervicalis ATCC 49957	4	Environment	Organism	experiments
+saline lake sediment	Streptosporangium roseum DSM 43021	4	Environment	Organism	experiments
+saline lake sediment	Kosmotoga olearia TBF 19.5.1	4	Environment	Organism	experiments
+saline lake sediment	Lachnoclostridium phytofermentans ISDg	4	Environment	Organism	experiments
+saline lake sediment	Nitrosococcus halophilus Nc 4	4	Environment	Organism	experiments
+saline lake sediment	Oceanicola granulosus HTCC2516	4	Environment	Organism	experiments
+saline lake sediment	Aromatoleum aromaticum EbN1	4	Environment	Organism	experiments
+saline lake sediment	Halosimplex carlsbadense	4	Environment	Organism	experiments
+saline lake sediment	Halochromatium salexigens	4	Environment	Organism	experiments
+saline lake sediment	Pseudodesulfovibrio aespoeensis Aspo-2	4	Environment	Organism	experiments
+saline lake sediment	Capnocytophaga canimorsus	4	Environment	Organism	experiments
+saline lake sediment	Marinobacter hydrocarbonoclasticus VT8	4	Environment	Organism	experiments
+saline lake sediment	Leadbetterella byssophila DSM 17132	4	Environment	Organism	experiments
+saline lake sediment	Elizabethkingia meningoseptica	4	Environment	Organism	experiments
+saline lake sediment	Desulfonatronospira thiodismutans ASO3-1	4	Environment	Organism	experiments
+saline lake sediment	Flavobacterium columnare	4	Environment	Organism	experiments
+saline lake sediment	Rhodothermus marinus	4	Environment	Organism	experiments
+saline lake sediment	Pelobacter propionicus DSM 2379	4	Environment	Organism	experiments
+saline lake sediment	Micrococcus luteus	4	Environment	Organism	experiments
+saline lake sediment	Anaeromyxobacter sp. Fw109-5	4	Environment	Organism	experiments
+saline lake sediment	Parvibaculum lavamentivorans DS-1	4	Environment	Organism	experiments
+saline lake sediment	Halanaerobium hydrogeniformans	4	Environment	Organism	experiments
+saline lake sediment	Candidatus Desulforudis audaxviator MP104C	4	Environment	Organism	experiments
+saline lake sediment	Acetohalobium arabaticum DSM 5501	4	Environment	Organism	experiments
+saline lake sediment	Anaerolinea thermophila UNI-1	4	Environment	Organism	experiments
+saline lake sediment	Methylobacter tundripaludum SV96	4	Environment	Organism	experiments
+saline lake sediment	Methylobacterium nodulans ORS 2060	4	Environment	Organism	experiments
+saline lake sediment	Rhodopirellula sp. SM49	4	Environment	Organism	experiments
+saline lake sediment	Cutibacterium acnes HL053PA2	4	Environment	Organism	experiments
+saline lake sediment	Geobacillus kaustophilus	4	Environment	Organism	experiments
+saline lake sediment	Natranaerobius thermophilus JW/NM-WN-LF	4	Environment	Organism	experiments
+saline lake sediment	Abiotrophia defectiva ATCC 49176	4	Environment	Organism	experiments
+saline lake sediment	Haloarcula marismortui ATCC 43049	4	Environment	Organism	experiments
+saline lake sediment	Brucella suis bv. 3 str. 686	4	Environment	Organism	experiments
+saline lake sediment	Methanosarcina mazei	4	Environment	Organism	experiments
+saline lake sediment	Syntrophus aciditrophicus SB	4	Environment	Organism	experiments
+saline lake sediment	Pelotomaculum thermopropionicum SI	4	Environment	Organism	experiments
+saline lake sediment	Janibacter sp. HTCC2649	4	Environment	Organism	experiments
+saline lake sediment	Methanoculleus marisnigri JR1	4	Environment	Organism	experiments
+saline lake sediment	Geobacter uraniireducens Rf4	4	Environment	Organism	experiments
+saline lake sediment	Halalkalicoccus jeotgali B3	4	Environment	Organism	experiments
+saline lake sediment	Magnetospirillum gryphiswaldense	4	Environment	Organism	experiments
+saline lake sediment	Haemophilus influenzae HK1212	4	Environment	Organism	experiments
+saline lake sediment	Pedobacter sp. KP-2	4	Environment	Organism	experiments
+saline lake sediment	Magnetospirillum magneticum AMB-1	4	Environment	Organism	experiments
+saline lake sediment	Paenibacillus sp. JDR-2	4	Environment	Organism	experiments
+saline lake sediment	Leptospirillum ferrodiazotrophum	4	Environment	Organism	experiments
+saline lake sediment	Rhodocista pekingensis	4	Environment	Organism	experiments
+saline lake sediment	Geobacter sulfurreducens PCA	4	Environment	Organism	experiments
+saline lake sediment	Chelativorans sp. BNC1	4	Environment	Organism	experiments
+saline lake sediment	Halorhodospira halophila SL1	4	Environment	Organism	experiments
+saline lake sediment	Desulfohalobium retbaense DSM 5692	4	Environment	Organism	experiments
+saline lake sediment	Frankia inefficax	4	Environment	Organism	experiments
+saline lake sediment	Isosphaera pallida ATCC 43644	4	Environment	Organism	experiments
+saline lake sediment	Chlorobaculum tepidum TLS	4	Environment	Organism	experiments
+saline lake sediment	Ammonifex degensii KC4	4	Environment	Organism	experiments
+saline lake sediment	Flammeovirga yaeyamensis	4	Environment	Organism	experiments
+saline lake sediment	Vibrio cholerae 2740-80	4	Environment	Organism	experiments
+saline lake sediment	Truepera radiovictrix DSM 17093	4	Environment	Organism	experiments
+saline lake sediment	Syntrophobacter wolinii	4	Environment	Organism	experiments
+saline lake sediment	Alkalilimnicola ehrlichii MLHE-1	4	Environment	Organism	experiments
+saline lake sediment	Oscillochloris trichoides	4	Environment	Organism	experiments
+saline lake sediment	Sphaerobacter thermophilus DSM 20745	4	Environment	Organism	experiments
+saline lake sediment	Bdellovibrio bacteriovorus HD100	4	Environment	Organism	experiments
+saline lake sediment	Gimesia maris DSM 8797	4	Environment	Organism	experiments
+saline lake sediment	Methylocystis sp. ATCC 49242	4	Environment	Organism	experiments
+saline lake sediment	Thioalkalivibrio sulfidiphilus HL-EbGr7	4	Environment	Organism	experiments
+saline lake sediment	Streptomyces sp. C	4	Environment	Organism	experiments
+saline lake sediment	Ktedonobacter racemifer DSM 44963	4	Environment	Organism	experiments
+saline lake sediment	Porphyromonas endodontalis	4	Environment	Organism	experiments
+saline lake sediment	Robiginitalea biformata HTCC2501	4	Environment	Organism	experiments
+saline lake sediment	Marinomonas sp. MWYL1	4	Environment	Organism	experiments
+saline lake sediment	Terriglobus saanensis SP1PR4	4	Environment	Organism	experiments
+saline lake sediment	uncultured Ochrobactrum sp.	4	Environment	Organism	experiments
+saline lake sediment	Parvibaculum indicum	4	Environment	Organism	experiments
+saline lake sediment	Halobacterium noricense	4	Environment	Organism	experiments
+saline lake sediment	Rubrobacter xylanophilus DSM 9941	4	Environment	Organism	experiments
+saline lake sediment	Thermaerobacter marianensis DSM 12885	4	Environment	Organism	experiments
+saline lake sediment	Jannaschia sp. CCS1	4	Environment	Organism	experiments
+saline lake sediment	Bacteroides fragilis 3_1_12	4	Environment	Organism	experiments
+saline lake sediment	Halorubrum lacusprofundi ATCC 49239	4	Environment	Organism	experiments
+saline lake sediment	Nitrococcus mobilis Nb-231	4	Environment	Organism	experiments
+saline lake sediment	Streptomyces sp. AA4	4	Environment	Organism	experiments
+saline lake sediment	Porphyromonas gulae	4	Environment	Organism	experiments
+saline water	Kineococcus radiotolerans SRS30216 = ATCC BAA-149	4	Environment	Organism	experiments
+saline water	Corethron hystrix	4	Environment	Organism	experiments
+saline water	Clostridium botulinum Bf	4	Environment	Organism	experiments
+saline water	Parabacteroides merdae ATCC 43184	4	Environment	Organism	experiments
+saline water	Bifidobacterium longum subsp. infantis CCUG 52486	4	Environment	Organism	experiments
+saline water	Pseudoflavonifractor capillosus ATCC 29799	4	Environment	Organism	experiments
+saline water	Chaetoceros socialis	4	Environment	Organism	experiments
+saline water	Riemerella anatipestifer	4	Environment	Organism	experiments
+saline water	Rhodopirellula sp. SM49	4	Environment	Organism	experiments
+saline water	Aspergillus wentii	4	Environment	Organism	experiments
+saline water	Syntrophus aciditrophicus SB	4	Environment	Organism	experiments
+saline water	Stellarima microtrias	4	Environment	Organism	experiments
+saline water	Bacteroides sp. 3_1_33FAA	4	Environment	Organism	experiments
+saline water	Magnetospirillum gryphiswaldense	4	Environment	Organism	experiments
+saline water	Heliobacterium modesticaldum Ice1	4	Environment	Organism	experiments
+saline water	Eucampia antarctica	4	Environment	Organism	experiments
+saline water	Curvibacter putative symbiont of Hydra magnipapillata	4	Environment	Organism	experiments
+saline water	Chaetoceros gracilis	4	Environment	Organism	experiments
+saline water	Zunongwangia profunda SM-A87	4	Environment	Organism	experiments
+saline water	Pseudoalteromonas translucida TAC125	4	Environment	Organism	experiments
+saline water	Streptomyces himastatinicus ATCC 53653	4	Environment	Organism	experiments
+saline water	[Clostridium] leptum DSM 753	4	Environment	Organism	experiments
+saline water	Shewanella sp. MR-4	4	Environment	Organism	experiments
+saline water	Faecalibacterium prausnitzii M21/2	4	Environment	Organism	experiments
+saline water	Penicillium glabrum	4	Environment	Organism	experiments
+saline water	Bacteroides fragilis 3_1_12	4	Environment	Organism	experiments
+saline water	Chaetoceros sp. ArM0005	4	Environment	Organism	experiments
+saline water	Flexithrix dorotheae	4	Environment	Organism	experiments
+marine salt marsh biome	Saccharomyces cerevisiae	4	Environment	Organism	experiments
+marine salt marsh biome	Kineococcus radiotolerans SRS30216 = ATCC BAA-149	4	Environment	Organism	experiments
+marine salt marsh biome	Penicillium paneum	4	Environment	Organism	experiments
+marine salt marsh biome	Phaeosphaeria spartinicola	4	Environment	Organism	experiments
+marine salt marsh biome	Bacillus sp. TA2.A1	4	Environment	Organism	experiments
+marine salt marsh biome	Fusibacter paucivorans	4	Environment	Organism	experiments
+marine salt marsh biome	[Clostridium] paradoxum	4	Environment	Organism	experiments
+marine salt marsh biome	Listeria seeligeri FSL S4-171	4	Environment	Organism	experiments
+marine salt marsh biome	Penicillium chrysogenum	4	Environment	Organism	experiments
+marine salt marsh biome	Aspergillus fumigatus	4	Environment	Organism	experiments
+marine salt marsh biome	Nocardioides sp.	4	Environment	Organism	experiments
+marine salt marsh biome	Candidatus Protochlamydia naegleriophila	4	Environment	Organism	experiments
+marine salt marsh biome	Pyrenophora lolii	4	Environment	Organism	experiments
+marine salt marsh biome	Aspergillus candidus	4	Environment	Organism	experiments
+marine salt marsh biome	Podospora fibrinocaudata	4	Environment	Organism	experiments
+marine salt marsh biome	Lophiostoma vagabundum	4	Environment	Organism	experiments
+marine salt marsh biome	Streptococcus pneumoniae SP3-BS71	4	Environment	Organism	experiments
+marine salt marsh biome	Desulfofundulus luciae	4	Environment	Organism	experiments
+marine salt marsh biome	Pestalotiopsis microspora	4	Environment	Organism	experiments
+marine salt marsh biome	Methylomonas rubra	4	Environment	Organism	experiments
+marine salt marsh biome	Acholeplasma palmae	4	Environment	Organism	experiments
+marine salt marsh biome	Rhodoblastus acidophilus	4	Environment	Organism	experiments
+marine salt marsh biome	Rasamsonia byssochlamydoides	4	Environment	Organism	experiments
+marine salt marsh biome	Saccharomyces cerevisiae RM11-1a	4	Environment	Organism	experiments
+marine salt marsh biome	Nitrospira defluvii	4	Environment	Organism	experiments
+marine salt marsh biome	Parastagonospora nodorum SN15	4	Environment	Organism	experiments
+marine salt marsh biome	Heliobacterium modesticaldum Ice1	4	Environment	Organism	experiments
+marine salt marsh biome	Penicillium camemberti	4	Environment	Organism	experiments
+marine salt marsh biome	Thermodesulfovibrio yellowstonii	4	Environment	Organism	experiments
+marine salt marsh biome	Penicillium raistrickii	4	Environment	Organism	experiments
+marine salt marsh biome	Aspergillus leporis	4	Environment	Organism	experiments
+marine salt marsh biome	Trichophyton mentagrophytes	4	Environment	Organism	experiments
+marine salt marsh biome	Ruminococcus flavefaciens FD-1	4	Environment	Organism	experiments
+marine salt marsh biome	Zunongwangia profunda SM-A87	4	Environment	Organism	experiments
+marine salt marsh biome	Conexibacter woesei DSM 14684	4	Environment	Organism	experiments
+marine salt marsh biome	Gemmata obscuriglobus UQM 2246	4	Environment	Organism	experiments
+marine salt marsh biome	Saccharomyces mikatae IFO 1815	4	Environment	Organism	experiments
+marine salt marsh biome	Ruminococcus flavefaciens	4	Environment	Organism	experiments
+marine salt marsh biome	Penicillium spinulosum	4	Environment	Organism	experiments
+marine salt marsh biome	Cereibacter changlensis	4	Environment	Organism	experiments
+marine salt marsh biome	Ruminococcus callidus	4	Environment	Organism	experiments
+marine salt marsh biome	Faecalibacterium prausnitzii M21/2	4	Environment	Organism	experiments
+marine salt marsh biome	Saccharicrinis fermentans	4	Environment	Organism	experiments
+marine salt marsh biome	Rhodopirellula sp. SM50	4	Environment	Organism	experiments
+marine salt marsh biome	Penicillium solitum	4	Environment	Organism	experiments
+marine salt marsh biome	Trichophyton simii	4	Environment	Organism	experiments
+marine salt marsh biome	Ornithobacterium rhinotracheale	4	Environment	Organism	experiments
+marine salt marsh biome	Truepera radiovictrix DSM 17093	4	Environment	Organism	experiments
+marine salt marsh biome	Halothiobacillus kellyi	4	Environment	Organism	experiments
+marine salt marsh biome	Spirochaeta aurantia	4	Environment	Organism	experiments
+marine salt marsh biome	Candidatus Magnetobacterium bavaricum	4	Environment	Organism	experiments
+marine salt marsh biome	Ascochyta rabiei	4	Environment	Organism	experiments
+marine salt marsh biome	Rhodovulum kholense	4	Environment	Organism	experiments
+marine salt marsh biome	Burkholderia sp. H160	4	Environment	Organism	experiments
+marine salt marsh biome	Diaporthe phaseolorum	4	Environment	Organism	experiments
+marine salt marsh biome	Parabacteroides merdae ATCC 43184	4	Environment	Organism	experiments
+marine salt marsh biome	Blastopirellula marina DSM 3645	4	Environment	Organism	experiments
+marine salt marsh biome	Slackia heliotrinireducens DSM 20476	4	Environment	Organism	experiments
+marine salt marsh biome	Bifidobacterium longum subsp. infantis CCUG 52486	4	Environment	Organism	experiments
+marine salt marsh biome	Lactococcus lactis	4	Environment	Organism	experiments
+marine salt marsh biome	Aspergillus brasiliensis	4	Environment	Organism	experiments
+marine salt marsh biome	[Candida] glabrata	4	Environment	Organism	experiments
+marine salt marsh biome	Penicillium corylophilum	4	Environment	Organism	experiments
+marine salt marsh biome	Fibrobacter intestinalis	4	Environment	Organism	experiments
+marine salt marsh biome	Botryosphaeria dothidea	4	Environment	Organism	experiments
+marine salt marsh biome	Acidobacterium capsulatum	4	Environment	Organism	experiments
+marine salt marsh biome	Penicillium digitatum	4	Environment	Organism	experiments
+marine salt marsh biome	Leptospira borgpetersenii	4	Environment	Organism	experiments
+marine salt marsh biome	Cladosporium cladosporioides	4	Environment	Organism	experiments
+marine salt marsh biome	Treponema zuelzerae	4	Environment	Organism	experiments
+marine salt marsh biome	Lachnum abnorme	4	Environment	Organism	experiments
+marine salt marsh biome	Desulfotomaculum putei	4	Environment	Organism	experiments
+marine salt marsh biome	Tenacibaculum maritimum	4	Environment	Organism	experiments
+marine salt marsh biome	Robiginitalea biformata HTCC2501	4	Environment	Organism	experiments
+marine salt marsh biome	Eisenibacter elegans	4	Environment	Organism	experiments
+marine salt marsh biome	Cytophaga sp. MBIC01539	4	Environment	Organism	experiments
+marine salt marsh biome	Penicillium canescens	4	Environment	Organism	experiments
+marine salt marsh biome	Rhodopirellula sp. SM49	4	Environment	Organism	experiments
+marine salt marsh biome	Aureobasidium pullulans	4	Environment	Organism	experiments
+marine salt marsh biome	Schizothecium curvisporum	4	Environment	Organism	experiments
+marine salt marsh biome	Natranaerobius thermophilus JW/NM-WN-LF	4	Environment	Organism	experiments
+marine salt marsh biome	Gemmatimonas aurantiaca T-27	4	Environment	Organism	experiments
+marine salt marsh biome	Syntrophus aciditrophicus SB	4	Environment	Organism	experiments
+marine salt marsh biome	Aspergillus aculeatus	4	Environment	Organism	experiments
+marine salt marsh biome	Mycosphaerella sp. 2 SAP133	4	Environment	Organism	experiments
+marine salt marsh biome	Desulfuromonas michiganensis	4	Environment	Organism	experiments
+marine salt marsh biome	Frankia sp.	4	Environment	Organism	experiments
+marine salt marsh biome	Byssochlamys spectabilis	4	Environment	Organism	experiments
+marine salt marsh biome	Coxiella burnetii	4	Environment	Organism	experiments
+marine salt marsh biome	Penicillium sclerotigenum	4	Environment	Organism	experiments
+marine salt marsh biome	Halovibrio variabilis	4	Environment	Organism	experiments
+marine salt marsh biome	Veillonella dispar	4	Environment	Organism	experiments
+marine salt marsh biome	Aspergillus niger	4	Environment	Organism	experiments
+marine salt marsh biome	Curvibacter putative symbiont of Hydra magnipapillata	4	Environment	Organism	experiments
+marine salt marsh biome	Sphaerobacter thermophilus DSM 20745	4	Environment	Organism	experiments
+marine salt marsh biome	Podospora curvicolla	4	Environment	Organism	experiments
+marine salt marsh biome	Vanderwaltozyma polyspora DSM 70294	4	Environment	Organism	experiments
+marine salt marsh biome	Bacteroides vulgatus ATCC 8482	4	Environment	Organism	experiments
+marine salt marsh biome	Bdellovibrio bacteriovorus	4	Environment	Organism	experiments
+marine salt marsh biome	Cytophaga hutchinsonii	4	Environment	Organism	experiments
+marine salt marsh biome	Ruminiclostridium cellobioparum	4	Environment	Organism	experiments
+marine salt marsh biome	Desulfobotulus sapovorans	4	Environment	Organism	experiments
+marine salt marsh biome	Chlorobium chlorochromatii CaD3	4	Environment	Organism	experiments
+marine salt marsh biome	Kazachstania telluris	4	Environment	Organism	experiments
+marine salt marsh biome	Penicillium commune	4	Environment	Organism	experiments
+marine salt marsh biome	Coraliomargarita akajimensis DSM 45221	4	Environment	Organism	experiments
+marine salt marsh biome	Bacillus cereus R309803	4	Environment	Organism	experiments
+marine salt marsh biome	Terriglobus saanensis SP1PR4	4	Environment	Organism	experiments
+marine salt marsh biome	Kazachstania yakushimaensis	4	Environment	Organism	experiments
+marine salt marsh biome	Cladosporium herbarum	4	Environment	Organism	experiments
+marine salt marsh biome	Alternaria alternata	4	Environment	Organism	experiments
+marine salt marsh biome	Leptospira interrogans	4	Environment	Organism	experiments
+marine salt marsh biome	Flexithrix dorotheae	4	Environment	Organism	experiments
+marine salt marsh biome	Penicillium citreonigrum	4	Environment	Organism	experiments
+marine salt marsh biome	Rhabdochromatium marinum	4	Environment	Organism	experiments
