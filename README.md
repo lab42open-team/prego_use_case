@@ -55,9 +55,14 @@ Mostly text mining channel was filtered.
 Format for Arena3D
 
 ```
-gawk -F"\t" 'BEGIN{print "SourceNode" FS "TargetNode" FS "Weight" FS "SourceLayer" FS "TargetLayer" FS "Channel"}{if ($1=="textmining"){print $3 FS $5 FS $7 FS $2 FS $4 FS $1}else {print $3 FS $5 FS $8 FS $2 FS $4 FS $1}}' prego_soil_envo_pairs_edgelist.tsv > prego_soil_envo_pairs_arena.tsv
+gawk -F"\t" 'BEGIN{print "TargetLayer" FS "TargetNode" FS "SourceLayer" FS "SourceNode" FS "Channel" FS "Weight"}{if ($1=="textmining"){print $4 FS $5 FS $2 FS $3 FS $1 FS $7}else {print $4 FS $5 FS $2 FS $3 FS $1 FS $8}}' prego_soil_envo_pairs_edgelist.tsv > prego_soil_envo_pairs_arena.tsv
 ```
 
+Retrieve the higher taxonomy of taxa of soil.
+```
+./entities_ranks.awk /data/dictionary/prego_unicellular_ncbi.tsv /data/dictionary/ncbi/ncbi_taxonomy/nodes.dmp /data/dictionary/database_preferred.tsv /data/dictionary/database_groups.tsv prego_soil_envo_pairs_arena.tsv > prego_soil_higher_taxa.tsv
+```
+The entities ranks is from the PREGO statistics repository.
 
 ### Saline
 
