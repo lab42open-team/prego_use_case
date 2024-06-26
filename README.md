@@ -11,6 +11,56 @@ environments is salinity. As climate change accelarates, salinity in various
 habitats is also increased and an important challenge is the advancements
 of agriculture crops with microbiome symbiotes tolerant in high salinity.
 
+### Soil
+
+```
+gawk -F"\t" 'BEGIN{soil["ENVO:00001998"]=1}(ARGIND==1 && $4=="ENVO:00001998"){soil[$2]=1}(ARGIND==2 && $2 in soil){print $2 FS $3}' database_groups.tsv database_preferred.tsv > ~/prego_statistics/soil_groups.tsv 
+```
+
+There are 115 ENVO terms related to soil. 
+
+```
+./filter_soil_envo.awk /data/dictionary/prego_unicellular_ncbi.tsv soil_groups.tsv /data/textmining/database_pairs.tsv /data/experiments/database_pairs.tsv /data/knowledge/database_pairs.tsv > prego_soil_envo.tsv
+```
+This script leads to 207939 PREGO associations.
+
+Filtering with score values :
+
+```
+gawk -F"\t" '{if ($1 ~ /textmining/){if ($6>4.8){print $0}} else {if ($8>=3){print $0}}}' prego_soil_envo.tsv > prego_soil_envo_pairs_filters.tsv
+```
+
+results in 14988 associations. Distributed in channels: 
+textmining      1137
+experiments     7056
+knowledge       6795
+
+Metadata of the entities and keep only species and strains
+
+```
+gawk -F"\t" '(ARGIND==1){terms[$3]=1; terms[$5]=1}(ARGIND==2){rank[$1]=$5}(ARGIND==3 && ($2 in terms)){if ($1==-2) {if (rank[$2]=="species" || rank[$2]=="strain"){print $2 FS $3 FS $1 FS rank[$2]}} ; if ($1 !="-2" && $1 !=-3) {print $2 FS $3 FS $1 FS "na"} }' prego_soil_envo_pairs_filters.tsv nodes.dmp /data/dictionary/database_preferred.tsv > prego_soil_envo_pairs_metadata.tsv
+```
+
+Filter further to keep only species and strains
+```
+gawk -F"\t" 'FNR==NR{terms[$1]=1; next}($5 in terms){print}' prego_soil_envo_pairs_metadata.tsv prego_soil_envo_pairs_filters.tsv  > prego_soil_envo_pairs_edgelist.tsv
+```
+
+textmining      599
+experiments     7003
+knowledge       6777
+
+Mostly text mining channel was filtered.
+
+Format for Arena3D
+
+```
+gawk -F"\t" 'BEGIN{print "SourceNode" FS "TargetNode" FS "Weight" FS "SourceLayer" FS "TargetLayer" FS "Channel"}{if ($1=="textmining"){print $3 FS $5 FS $7 FS $2 FS $4 FS $1}else {print $3 FS $5 FS $8 FS $2 FS $4 FS $1}}' prego_soil_envo_pairs_edgelist.tsv > prego_soil_envo_pairs_arena.tsv
+```
+
+
+### Saline
+
 PREGO, being a data and metadata aggregator, can provide microbes and their 
 processes that are associated with Environmental Ontology terms of saline 
 environments. These are: 
