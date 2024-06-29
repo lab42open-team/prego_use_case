@@ -16,21 +16,21 @@ node_metadata_u <- node_metadata[!duplicated(node_metadata$id), ]
 
 phyla <- read_delim("prego_soil_higher_taxa.tsv", delim="\t", col_names=T) |> na.omit(phylum_name)
 
+summary_entities <- soil_net |> distinct(TargetNode,TargetLayer) |> group_by(TargetLayer) |> summa
 
 ############################### taxonomy ######################
 
 domain <- as.character(unique(phyla$superkingdom))
 
-phyla_top <- phyla |> filter(no_entities>10)
+phyla_top <- phyla |> filter(no_entities>10, channel!="all")
 
 p <- ggplot(phyla_top) +
-    geom_col(position="dodge",
-            aes(x    = no_entities,
+    geom_col(aes(x    = no_entities,
                 y    = reorder(phylum_name, -no_entities,decreasing=TRUE),
                 fill = as.character(channel))) +
         scale_fill_manual(name = "Channel",
-                          labels = c("All","Literature", "Samples", "Annotations"),
-                          values=c("all"="#8793Af",
+                          labels = c("Literature", "Samples", "Annotations"),
+                          values=c(
                                    "textmining"="#1d2758",
                                    "experiments"="#c81976",
                                    "knowledge"="#e66101"))+
@@ -51,8 +51,26 @@ ggsave("prego_soil_phyla_summary.png",
        dpi = 300,
        device="png")
 
+p_facet <- p + facet_wrap(~superkingdom)
 
-################################ network ######################
+ggsave("prego_soil_phyla_summary_f.png",
+       plot=p_facet,
+       width = 15,
+       height = 20,
+       units = "cm",
+       dpi = 300,
+       device="png")
+
+##
+kingdom_s <- phyla |> 
+    filter(channel=="all") |>
+    distinct(phylum_name,superkingdom,no_entities) |>
+    group_by(superkingdom,phylum_name) |>
+    summarise(n_taxa=sum(no_entities),.groups="keep") |>
+    group_by(superkingdom) |>
+    summarise(taxa=sum(n_taxa),phyla=n())
+
+################################ network ############################
 
 soil_net_sum <- soil_net %>% group_by(SourceNode, TargetNode) %>% summarise(n=n(), .groups="keep")
 g_soil <- graph_from_data_frame(soil_net, directed=F)
@@ -87,6 +105,8 @@ tidy_g <- as_tbl_graph(c_soil_deg) %>%
   activate(nodes) %>%
   mutate(layer = as.factor(Layer))
 
+g_dry <- soil_net |> 
+    filter(SourceNode %in% c("ENVO:00005748","ENVO:00005781", "ENVO:00002260"))
 
 soil_m_c <- ggraph(tidy_g, layout = 'fr') + 
   geom_edge_link2(aes(edge_color=Channel, edge_width=0.01*Weight, edge_alpha = 0.5)) +
